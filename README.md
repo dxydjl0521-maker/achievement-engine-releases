@@ -58,7 +58,9 @@ Achievement Engine 是给 Steam 全成就玩家用的桌面工具。它通过 St
 
 | 文件 | 说明 |
 | --- | --- |
-| `Achievement Engine Setup x.x.x.exe` | 安装版：可自选安装目录，自动创建桌面和开始菜单快捷方式 |
+| `Achievement.Engine.Setup.x.x.x.exe` | 安装版：可自选安装目录，自动创建桌面和开始菜单快捷方式 |
+
+> 文件名里的点号是 GitHub 上传时把空格替换掉的结果，下载下来直接双击安装即可。
 
 ### 首次使用
 
