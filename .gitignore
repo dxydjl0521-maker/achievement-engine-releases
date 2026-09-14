@@ -1,0 +1,4 @@
+# Installers belong on the Releases page, not in the repository — a 100 MB
+# binary in git history is permanent and pointless.
+*.exe
+*.blockmap
