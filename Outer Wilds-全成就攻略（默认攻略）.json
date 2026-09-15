@@ -1,0 +1,268 @@
+{
+  "format": "achievement-engine-guide",
+  "formatVersion": 1,
+  "exportedAt": "2026-09-15T06:57:46.660Z",
+  "game": "Outer Wilds",
+  "guideName": "默认攻略",
+  "categories": {
+    "custom": [
+      {
+        "key": "累计",
+        "label": "累计",
+        "color": "#0bd8f4"
+      },
+      {
+        "key": "boss",
+        "label": "Boss",
+        "color": "#ff0000"
+      }
+    ],
+    "presets": {}
+  },
+  "guide": {
+    "game_notes": {
+      "new_game_plus": "循环周目",
+      "missable": [],
+      "tips": "游戏无存档机制，既然你要做全成就，那么你一定也是一位想成为一名飞行高手的哈斯鱼，那么，赶快加入飞行高手的行列吧。\n\n小黑和参考帖子攻略\nhttps://api.xiaoheihe.cn/v3/bbs/app/api/web/share?h_camp=link&h_src=YXBwX3NoYXJl&link_id=251571dc75ad&new_post_share_style=true"
+    },
+    "timeline": [
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "本体",
+        "description": "",
+        "sub_achievements": [
+          {
+            "achievement_id": "GONE_IN_60_SECONDS",
+            "type": "misc",
+            "note": "开局快速死就行了，直接站火堆上或者跳楼自杀。",
+            "content": "",
+            "_uid": "umu0ymf6m4m"
+          },
+          {
+            "achievement_id": "CARCINOGENS",
+            "type": "累计",
+            "note": "连续吃十个烤焦的棉花糖。",
+            "content": "",
+            "_uid": "umu0ymf6m4n"
+          },
+          {
+            "achievement_id": "CUTTING_IT_CLOSE",
+            "type": "condition",
+            "note": "把太空服的燃气用光，用氧气起飞。",
+            "content": "",
+            "_uid": "umu0ymf6m4o"
+          },
+          {
+            "achievement_id": "WHATS_THIS_BUTTON",
+            "type": "misc",
+            "note": "进入飞船驾驶舱，在控制面板右前方按下紧急脱离按钮。",
+            "content": "",
+            "_uid": "umu0ymf6m4p"
+          },
+          {
+            "achievement_id": "RIGIDBODY",
+            "type": "difficulty",
+            "note": "撞击木炉星的环绕卫星。方法：沿着木炉星飞，看到快速移动的白色小点就追上并撞上去。",
+            "content": "",
+            "_uid": "umu0ymf6m4q"
+          },
+          {
+            "achievement_id": "HEARTH_TO_MOON",
+            "type": "difficulty",
+            "note": "将模型飞机飞到月球，只要碰到即可。醒来打盹睡50秒，然后直奔模型飞船操作台垂直向上飞。",
+            "content": "",
+            "_uid": "umu0ymf6m4r"
+          },
+          {
+            "achievement_id": "MICAS_WRATH",
+            "type": "difficulty",
+            "note": "将模型飞机飞进太阳烧毁。从特定视角观察，看到太阳露出来一点后控制飞机垂直飞行一直不放手，直到飞进太阳。",
+            "content": "",
+            "_uid": "umu0ymf6m4s"
+          },
+          {
+            "achievement_id": "DIEHARD",
+            "type": "condition",
+            "note": "受到超过一千的伤害并治愈，活过一个循环。将飞船降落在篝火上，门对着篝火，站在火上烤，快死时按烤棉花糖回飞船补血，循环15-20次后睡到自然醒。",
+            "content": "",
+            "_uid": "umu0ymf6m4t"
+          },
+          {
+            "achievement_id": "HARMONIC_CONVERGENCE",
+            "type": "condition",
+            "note": "用信号仪同时观测到所有人的音乐。可与这值得一试一起做。",
+            "content": "",
+            "_uid": "umu0ymf6m4u"
+          },
+          {
+            "achievement_id": "YOU_TRIED",
+            "type": "condition",
+            "note": "逃离太阳系直到循环结束。一直开飞船远离太阳系，中途可拿出信号仪听音乐。",
+            "content": "",
+            "_uid": "umu0ymf6m4v"
+          },
+          {
+            "achievement_id": "PCHOOOOOOO",
+            "type": "condition",
+            "note": "用重力炮发射飞船。推荐余烬双星的重力炮，发射后会解锁一条飞行日志。",
+            "content": "",
+            "_uid": "umu0ymf6m4w"
+          },
+          {
+            "achievement_id": "TERRIBLE_FATE",
+            "type": "condition",
+            "note": "去余烬双星的高能实验室玩跃迁实验装置。上楼把功率调大，在侦察兵还没进黑洞时把黑洞核心取下。",
+            "content": "",
+            "_uid": "umu0ymf6m4x"
+          },
+          {
+            "achievement_id": "MUSEUM",
+            "type": "condition",
+            "note": "将跃迁核心拿回博物馆。在高能实验室把黑洞核心或白洞核心拿了，带回木炉星的博物馆。",
+            "content": "",
+            "_uid": "umu0ymf6m4y"
+          },
+          {
+            "achievement_id": "DEEP_IMPACT",
+            "type": "difficulty",
+            "note": "不通过龙卷风以相当快的速度冲进深巨星深水层。方法：等岛起飞后飞到岛下方随岛一起进入，或用飞船从远处加速冲入。",
+            "content": "",
+            "_uid": "umu0ymf6m4z"
+          },
+          {
+            "achievement_id": "STUDIOUS",
+            "type": "collect",
+            "note": "解锁所有的飞船日志（不含DLC）。\n注意：\n①余烬双星切特的营地——先去宇宙之眼通关后，循环早期和他对话告诉他太阳将毁灭，循环后期再对话听观测结果；\n②量子卫星第六个位置——把所有石块排列组合；\n③木炉星黑棘星种子处——拿信号镜听音乐。",
+            "content": "",
+            "_uid": "umu0ymf6m50"
+          },
+          {
+            "achievement_id": "BEGINNERS_LUCK",
+            "type": "difficulty",
+            "note": "在新档的第一个循环内到达宇宙之眼。\n流程：\n①切新档；\n②去博物馆拿发射机密码；\n③前往余烬双星二号救生舱获取求救信号；\n④前往灰烬双星跃迁塔进入核心舱室拿高级跃迁核心；\n⑤前往黑棘星利用信号找到三号救生舱，再找到挪麦宇宙飞船；\n⑥放上高级跃迁核心，输入密码前往宇宙之眼。",
+            "content": "",
+            "_uid": "umu0ymf6m51"
+          },
+          {
+            "achievement_id": "ALPHA_PILOT",
+            "type": "difficulty",
+            "note": "直接飞到太阳站。步骤：\n①标记太阳站，穿宇航服；\n②起飞调整飞船角度，使飞船正对太阳中心，太阳站垂直于视线从下往上飞；\n③靠近到4000米左右，速度在0左右跳动，此后不要用匹配速度而用后推；\n④同步太阳站速度，调整视角中心对准太阳中心，使太阳距离在3000米左右；\n⑤太阳站从太阳下面露头时靠近，视角从太阳转移到太阳站；\n⑥锁定进站口逐步靠近，等待太阳风从下往上吹时解开安全带，用紧急脱离按钮飞出飞船，锁定进站口缓慢移动进站。",
+            "content": "",
+            "_uid": "umu0ymf6m52"
+          }
+        ],
+        "content": "",
+        "_uid": "umu0ymf6m4l"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "DLC",
+        "description": "",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACHIEVEMENT_2",
+            "type": "misc",
+            "note": "拿飞船撞毁深空卫星。",
+            "content": "",
+            "_uid": "umu0ymf6m54"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_6",
+            "type": "misc",
+            "note": "在太空站中随便找一个电梯，当电梯下行时站在正下方被压死。",
+            "content": "",
+            "_uid": "umu0ymf6m55"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_7",
+            "type": "condition",
+            "note": "在太空站中随便拿一个灯幻片卷轴，拿到鹿人火堆处烧掉。",
+            "content": "",
+            "_uid": "umu0ymf6m56"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_10",
+            "type": "misc",
+            "note": "在太空站随便拿一个进入鹿人梦境的文物，拿回木炉星出生点的篝火处睡觉。",
+            "content": "",
+            "_uid": "umu0ymf6m57"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_5",
+            "type": "condition",
+            "note": "到达大坝处，大坝左右两边水底下都有洞，潜水通过即可。",
+            "content": "",
+            "_uid": "umu0ymf6m58"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_4",
+            "type": "condition",
+            "note": "在被摧毁的实验室最右边箱子中找到第二类文物，用它进入里世界。",
+            "content": "",
+            "_uid": "umu0ymf6m59"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_11",
+            "type": "difficulty",
+            "note": "将侦察兵射到太空站中的大灯上。推荐点位：从摧毁的实验室进入隐秘峡谷，在栅栏拐角点跳上去，用信号仪对准目标位置切换侦察兵发射。",
+            "content": "",
+            "_uid": "umu0ymf6m5a"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_14",
+            "type": "condition",
+            "note": "在离灯状态下被鹿人抓住。推荐在隐秘峡谷（无尽峡谷），通过隐藏画熄灯后直奔楼顶的鹿人。",
+            "content": "",
+            "_uid": "umu0ymf6m5b"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_12",
+            "type": "condition",
+            "note": "熄灭无尽峡谷屋顶最上方的蜡烛。通过隐藏画熄灯，吸引楼顶鹿人后迅速上楼跳窗上屋顶。",
+            "content": "",
+            "_uid": "umu0ymf6m5c"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_13",
+            "type": "difficulty",
+            "note": "在鹿人抓你的时候跳水自杀。推荐在无尽峡谷，隐藏画熄灯后吸引鹿人2，在鹿人快抓住时从有两把椅子的阳台跳水。",
+            "content": "",
+            "_uid": "umu0ymf6m5d"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_9",
+            "type": "累计",
+            "note": "在梦境中通过五次不同方式醒来。可尝试：跳水、摔死、站火上烧死、警报铃吵醒、鹿人吹灯、洪水弄醒、电梯压死、鹿人松骨、离灯跳水等。",
+            "content": "",
+            "_uid": "umu0ymf6m5e"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_8",
+            "type": "condition",
+            "note": "在鹿人未发觉的情况下进入三个禁档案室。类比DLC最后解谜的三道锁：无尽峡谷需在开始处熄灯，通过壁画时不要回头；星光海湾不需熄灯即可进入；覆盖林地跳下河后直接连着禁档案室，需坐一次电梯往返（电梯下降触发进入判定）。",
+            "content": "",
+            "_uid": "umu0ymf6m5f"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_1",
+            "type": "difficulty",
+            "note": "在90秒内绕太空站一圈。睡十分钟后飞到太空站用电梯到达大坝处，用大坝前的船靠近大坝，等待大坝崩塌瞬间冲出去。",
+            "content": "",
+            "_uid": "umu0ymf6m5g"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_3",
+            "type": "difficulty",
+            "note": "乘风破浪15秒。睡十分钟后飞到太空站开船，靠边到杂草处推船使草位于船正中心，人草灯三点一线对准陆地与水面的分界线。大坝崩塌后海浪压住时后退出水，开灯照右边的灯躲第一撞击点，再照左边的灯躲第二撞击点，依次躲过五个撞击点后跳成就。",
+            "content": "",
+            "_uid": "umu0ymf6m5h"
+          }
+        ],
+        "content": "",
+        "_uid": "umu0ymf6m53"
+      }
+    ]
+  }
+}

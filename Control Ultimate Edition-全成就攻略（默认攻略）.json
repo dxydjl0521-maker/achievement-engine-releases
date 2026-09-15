@@ -1,0 +1,648 @@
+{
+  "format": "achievement-engine-guide",
+  "formatVersion": 1,
+  "exportedAt": "2026-09-15T06:56:39.968Z",
+  "game": "Control Ultimate Edition",
+  "guideName": "默认攻略",
+  "categories": {
+    "custom": [
+      {
+        "key": "累计",
+        "label": "累计",
+        "color": "#0fd1eb"
+      },
+      {
+        "key": "boss",
+        "label": "Boss",
+        "color": "#ff0000"
+      },
+      {
+        "key": "净化点",
+        "label": "净化点",
+        "color": "#37f104"
+      },
+      {
+        "key": "技能",
+        "label": "技能",
+        "color": "#0008ff"
+      },
+      {
+        "key": "主线",
+        "label": "主线",
+        "color": "#f09800"
+      },
+      {
+        "key": "武器",
+        "label": "武器",
+        "color": "#004585"
+      },
+      {
+        "key": "挑战",
+        "label": "挑战",
+        "color": "#ff7a45"
+      }
+    ],
+    "presets": {
+      "main": "#ce3009",
+      "misc": "#776e6e"
+    }
+  },
+  "guide": {
+    "game_notes": {
+      "new_game_plus": "",
+      "missable": [],
+      "tips": "全成就需要2个DLC.\n因为本游戏没有错过就无法完成的成就，所以本篇指南按照本体和dlc的顺序展开。\n本体成就：（共46个成就）\n\n注：本篇文章中有一些内容是搬运的，并非侵权，如果觉得有相关问题可以私信我。\n小黑盒链接：\nhttps://api.xiaoheihe.cn/v3/bbs/app/api/web/share?h_camp=link&h_src=YXBwX3NoYXJl&link_id=88146fd2eb2e&new_post_share_style=true"
+    },
+    "timeline": [
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "主线成就（本体）",
+        "description": "主线流程成就。不建议先推主线，再来清支线，建议玩家按区域清理主线/支线任务",
+        "sub_achievements": [
+          {
+            "achievement_id": "ITS_A_SHIFTING_PLACE_ACHIEVEMENT",
+            "type": "主线",
+            "note": "完成任务1",
+            "content": "",
+            "_uid": "umu1b4qwm1t"
+          },
+          {
+            "achievement_id": "HOTLINE_RING_ACHIEVEMENT",
+            "type": "主线",
+            "note": "完成任务2",
+            "content": "",
+            "_uid": "umu1b4qwm1u"
+          },
+          {
+            "achievement_id": "LOCK_DOWN_WITH_YOUR_SOCKS_ON_ACHIEVEMENT",
+            "type": "主线",
+            "note": "完成任务3",
+            "content": "",
+            "_uid": "umu1b4qwm1v"
+          },
+          {
+            "achievement_id": "MARSHALL_MARSHALL_MARSHALL_ACHIEVEMENT",
+            "type": "主线",
+            "note": "完成任务4",
+            "content": "",
+            "_uid": "umu1b4qwm1w"
+          },
+          {
+            "achievement_id": "ROCK_OUT_ACHIEVEMENT",
+            "type": "主线",
+            "note": "完成任务5",
+            "content": "",
+            "_uid": "umu1b4qwm1x"
+          },
+          {
+            "achievement_id": "BROTHERS_KEEPER_ACHIEVEMENT",
+            "type": "主线",
+            "note": "完成任务6",
+            "content": "",
+            "_uid": "umu1b4qwm1y"
+          },
+          {
+            "achievement_id": "ORDINARY_WORLD_ACHIEVEMENT",
+            "type": "主线",
+            "note": "完成任务7",
+            "content": "",
+            "_uid": "umu1b4qwm1z"
+          },
+          {
+            "achievement_id": "THE_FISHER_KING_ACHIEVEMENT",
+            "type": "主线",
+            "note": "完成任务8",
+            "content": "",
+            "_uid": "umu1b4qwm20"
+          },
+          {
+            "achievement_id": "LARGE_HEDRON_COLLIDER_ACHIEVEMENT",
+            "type": "主线",
+            "note": "完成任务9",
+            "content": "",
+            "_uid": "umu1b4qwm21"
+          },
+          {
+            "achievement_id": "WAKE_ACHIEVEMENT",
+            "type": "主线",
+            "note": "完成任务10",
+            "content": "",
+            "_uid": "umu1b4qwm22"
+          }
+        ],
+        "content": "",
+        "_uid": "umu1b4qwm1s"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "武器（本体）",
+        "description": "",
+        "sub_achievements": [
+          {
+            "achievement_id": "HILT_OF_CALIBURN_ACHIEVEMENT",
+            "type": "武器",
+            "note": "获得秘力武器\n游戏一开始那里在捡到前局长的枪后就会跳，剧情成就，不会错过",
+            "content": "",
+            "_uid": "umu1b4qwm24"
+          },
+          {
+            "achievement_id": "WERE_GOING_SHOPPING_ACHIEVEMENT",
+            "type": "武器",
+            "note": "制作一个武器形态或模块\n制作一个武器形态或模块，只要升级枪都会做的",
+            "content": "",
+            "_uid": "umu1b4qwm25"
+          },
+          {
+            "achievement_id": "THREEFOLD_ACHIEVEMENT",
+            "type": "武器",
+            "note": "将任意武器形态升至3级\n将任意一种枪升至三级，可解锁等级会随着游戏主线进程开放，这里我建议建议升穿刺和旋转",
+            "content": "",
+            "_uid": "umu1b4qwm26"
+          }
+        ],
+        "content": "",
+        "_uid": "umu1b4qwm23"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "技能（本体）",
+        "description": "",
+        "sub_achievements": [
+          {
+            "achievement_id": "EMPOWERED_ACHIEVEMENT",
+            "type": "技能",
+            "note": "解除锁定1项技能升级\n主线推进解锁，不必过于留意",
+            "content": "",
+            "_uid": "umu1b4qwm28"
+          },
+          {
+            "achievement_id": "PARANATURAL_POWERHOUSE_ACHIEVEMENT",
+            "type": "技能",
+            "note": "获得发射技能\n主线解锁，不会错过",
+            "content": "",
+            "_uid": "umu1b4qwm29"
+          },
+          {
+            "achievement_id": "INSULAR_TELEKINESIS_ACHIEVEMENT",
+            "type": "技能",
+            "note": "获得护盾技能\n在去维修部的维修中心，进去直走到入口通道处，地上有标板，任务叫一次不错的防守，接到了往回走就到地方了，完成任务就会解锁",
+            "content": "",
+            "_uid": "umu1b4qwm2a"
+          },
+          {
+            "achievement_id": "SHIFTING_POSITIONS_ACHIEVEMENT",
+            "type": "技能",
+            "note": "获得闪避技能\n完成任务2后，坐电梯下楼去维护区，在清洁工办公室附近可接到任务“快乐追逐战”，净化红色木马并通过挑战后可获得“闪避”技能",
+            "content": "",
+            "_uid": "umu1b4qwm2b"
+          },
+          {
+            "achievement_id": "PSYCHIC_OCCUPATION_ACHIEVEMENT",
+            "type": "技能",
+            "note": "获得支配技能\n支线被俘虏的观众，在催眠实验室，开x光门图形的密码依次按上下左右上下左右上",
+            "content": "",
+            "_uid": "umu1b4qwm2c"
+          },
+          {
+            "achievement_id": "RISING_THOUGHT_ACHIEVEMENT",
+            "type": "技能",
+            "note": "获得飘浮技能\n主线解锁，不会错过",
+            "content": "",
+            "_uid": "umu1b4qwm2d"
+          },
+          {
+            "achievement_id": "TRINARY_ACHIEVEMENT",
+            "type": "技能",
+            "note": "解除锁定全部3个个人模块栏位\n推进主线后会解锁",
+            "content": "",
+            "_uid": "umu1b4qwm2e"
+          },
+          {
+            "achievement_id": "UNRIVALED_ACHIEVEMENT",
+            "type": "技能",
+            "note": "花费 50 个技能点\n这个成就可能有bug，加了一半不跳就断网加一项技能即可",
+            "content": "",
+            "_uid": "umu1b4qwm2f"
+          },
+          {
+            "achievement_id": "UNLIMITED_ACHIEVEMENT",
+            "type": "技能",
+            "note": "花费 100 个技能点\n技能全解锁除了需要主线和支线的技能点奖励外，还需要发现隐藏区来获得技能点，这里我给一个本体隐藏地点的b站链接：BV11i4y177uC，有全收集需要的hy可以看看。该成就在打完dlc之后容易解",
+            "content": "",
+            "_uid": "umu1b4qwm2g"
+          }
+        ],
+        "content": "",
+        "_uid": "umu1b4qwm27"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "净化点",
+        "description": "净化点就是存档点，多清主线和支线，基本不会遗漏，加上dlc的净化点，算是流程杯了。",
+        "sub_achievements": [
+          {
+            "achievement_id": "BUREAU_ACQUAINTANCE_ACHIEVEMENT",
+            "type": "净化点",
+            "note": "净化5个控制点",
+            "content": "",
+            "_uid": "umu1b4qwm2i"
+          },
+          {
+            "achievement_id": "BUREAU_BUDDY_ACHIEVEMENT",
+            "type": "净化点",
+            "note": "净化10个控制点",
+            "content": "",
+            "_uid": "umu1b4qwm2j"
+          },
+          {
+            "achievement_id": "BUREAU_HERO_ACHIEVEMENT",
+            "type": "净化点",
+            "note": "净化25个控制点",
+            "content": "",
+            "_uid": "umu1b4qwm2k"
+          }
+        ],
+        "content": "",
+        "_uid": "umu1b4qwm2h"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "支线任务",
+        "description": "本游戏基本所有支线都需要完成，因为支线会奖励技能点，为了达成100技能点的成就，除了奖励探险币的支线任务，其他支线支线都会奖励技能点，而这还不够，所以要都做。但是因为dlc的支线任务也算，所以这三个成就完成难度不高。",
+        "content": "",
+        "sub_achievements": [
+          {
+            "achievement_id": "HELPING_HAND_ACHIEVEMENT",
+            "type": "side",
+            "note": "完成5个支线任务",
+            "content": "",
+            "_uid": "umu1b4qwm2m"
+          },
+          {
+            "achievement_id": "STAFF_SUPPORT_ACHIEVEMENT",
+            "type": "side",
+            "note": "完成10个支线任务",
+            "content": "",
+            "_uid": "umu1b4qwm2n"
+          },
+          {
+            "achievement_id": "PILLAR_OF_THE_COMMUNITY_ACHIEVEMENT",
+            "type": "side",
+            "note": "完成15个支线任务",
+            "content": "",
+            "_uid": "umu1b4qwm2o"
+          }
+        ],
+        "_uid": "umu1b4qwm2l"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "委员会对策",
+        "description": "这两个成就注意要在通关前完成，比较好做，怪的刷新频率很高，但是通关之后就会很低，就会非常难做了。不好完成的可以先接受再放弃，建议从一开始就留意这些对策，在推主线时一并完成，减少后期刷的数量。",
+        "content": "",
+        "sub_achievements": [
+          {
+            "achievement_id": "TRIAL_LEWOUS_ACHIEVEMENT",
+            "type": "挑战",
+            "note": "完成5个委员会对策",
+            "content": "",
+            "_uid": "umu1b4qwm2q"
+          },
+          {
+            "achievement_id": "FIRST_CLASS_DIRECTOR_ACHIEVEMENT",
+            "type": "挑战",
+            "note": "完成25个委员会对策",
+            "content": "",
+            "_uid": "umu1b4qwm2r"
+          }
+        ],
+        "_uid": "umu1b4qwm2p"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "联邦控制局警报",
+        "description": "这两个成就比较恶心的是隔固定一段时间刷新（通关后大概是半小时），遇到的时候顺手做了比较好，当然如果通关后没做完的话，可以看看是不是点唱机支线的问题，有两个解决方案，第一个是不要捡行政区传送点旁边柜子上的硬币，第二个是如果捡了就赶紧去跟旁边的npc讲话然后去点唱机进去，到有很多环的地方走闪绿灯的那个，往前互动一个录音机触发战斗一会就自动传回去了，任务完成后退出游戏重新进就能正常刷警报。",
+        "content": "",
+        "sub_achievements": [
+          {
+            "achievement_id": "FIRST_RESPONDER_ACHIEVEMENT",
+            "type": "累计",
+            "note": "完成1个联邦控制局警报",
+            "content": "",
+            "_uid": "umu1b4qwm2t"
+          },
+          {
+            "achievement_id": "PROBLEM_SOLVER_ACHIEVEMENT",
+            "type": "累计",
+            "note": "完成5个联邦控制局警报",
+            "content": "",
+            "_uid": "umu1b4qwm2u"
+          }
+        ],
+        "_uid": "umu1b4qwm2s"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "Boss",
+        "description": "",
+        "content": "",
+        "sub_achievements": [
+          {
+            "achievement_id": "SILENCE_IS_GOLDEN_ACHIEVEMENT",
+            "type": "boss",
+            "note": "击败托马西\n艾米丽的任务：托马西先生。建议是在上层打。这里提供一个简单的打法思路：进场跳到进门右手边架子上，开盾挡两次投掷，然后再飞上高台，直接上中间横梁红色网上站着，隐形怪瞬移不到上面，而且boss也不会上来攻击你，唯一需要注意的是手榴弹和自爆怪，你就拿着穿刺和投掷丢他就行了。 刚刚打死的时候先别跳下来，地上还有一只隐形怪，打死boss门还是不会开的，小怪还会刷几波。b站完整任务的链接：BV1u8411A7TT",
+            "content": "",
+            "_uid": "umu1b4qwm2w"
+          },
+          {
+            "achievement_id": "THE_MOLD_ONE_ACHIEVEMENT",
+            "type": "boss",
+            "note": "击败霉菌-1\n行政区艾米丽可以接到任务：古老生长，需要许可等级4以上。这里给上一个b站链接：BV1y14y1T7H7以帮助不懂的hy",
+            "content": "",
+            "_uid": "umu1b4qwm2x"
+          },
+          {
+            "achievement_id": "HERES_MUD_IN_YOUR_EYE_ACHIEVEMENT",
+            "type": "boss",
+            "note": "击败前任\n隔离区4楼冰箱任务，这里还是给上一个b站链接：BV1ae4y1F78D，帮助hy找到方位和了解打法思路",
+            "content": "",
+            "_uid": "umu1b4qwm2y"
+          },
+          {
+            "achievement_id": "FRAMED_ACHIEVEMENT",
+            "type": "boss",
+            "note": "击败西杰\n研究区仪式处左边区域共时实验室的镜子测试处，进去就接到任务：自我镜像。完整任务b站链接：BV1614y1T7v4",
+            "content": "",
+            "_uid": "umu1b4qwm2z"
+          },
+          {
+            "achievement_id": "TIME_TO_DIE_ACHIEVEMENT",
+            "type": "boss",
+            "note": "击败船锚\n物流控制点左侧遇见个NPC可以接到前置任务——争分夺秒，完成后会出现任务——内在的敌人。完整任务b站链接：BV1fW4y137mk",
+            "content": "",
+            "_uid": "umu1b4qwm30"
+          }
+        ],
+        "_uid": "umu1b4qwm2v"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "刷刷（本体）",
+        "description": "这些成就只要在做任务和跑图时候多留意就好，基本都可以在通关前完成。",
+        "content": "",
+        "sub_achievements": [
+          {
+            "achievement_id": "HISSTERICAL_ACHIEVEMENT",
+            "type": "累计",
+            "note": "击杀1000个希斯\n流程杯，甚至都不需要你经过的怪就杀，正常做支线，也不需要全做完，最后的主线任务基本能跳成就。如果没跳，多刷就好了",
+            "content": "",
+            "_uid": "umu1b4qwm32"
+          },
+          {
+            "achievement_id": "PERSONAL_WEALTH_ACHIEVEMENT",
+            "type": "累计",
+            "note": "至少收集10万单位来源\n多杀怪，多收集，多做任务，基本后期就会跳。",
+            "content": "",
+            "_uid": "umu1b4qwm33"
+          },
+          {
+            "achievement_id": "SHIELD_BASH_ACHIEVEMENT",
+            "type": "累计",
+            "note": "使用护盾爆裂技能击杀10个敌人\n后期升级护盾有个护盾破裂时瞬间对怪造成伤害的技能",
+            "content": "",
+            "_uid": "umu1b4qwm34"
+          },
+          {
+            "achievement_id": "RETURN_TO_SENDER_ACHIEVEMENT",
+            "type": "技能",
+            "note": "使用发射技能投掷一枚手雷或火箭\n前期无法抓取，必须点了技能才能抓",
+            "content": "",
+            "_uid": "umu1b4qwm35"
+          },
+          {
+            "achievement_id": "PUPPET_MASTER_ACHIEVEMENT",
+            "type": "累计",
+            "note": "使用支配技能控制10个敌人\n主线解锁技能，多留意基本中期都能解",
+            "content": "",
+            "_uid": "umu1b4qwm36"
+          },
+          {
+            "achievement_id": "INTERCEPT_TRAJECTORY_ACHIEVEMENT",
+            "type": "累计",
+            "note": "使用发射技能击杀50个敌人\n主线解锁技能，同样多留意就会解",
+            "content": "",
+            "_uid": "umu1b4qwm37"
+          }
+        ],
+        "_uid": "umu1b4qwm31"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "收集（本体）",
+        "description": "这三个成就基本上算是流程杯了，只要不是专注于跑图的话，基本上到任务6左右就会解锁。想要全收集的hy，我这里给一个全收集的流程视频链接（b站），可以作为参考。BV1Bf4y1Y7AE",
+        "content": "",
+        "sub_achievements": [
+          {
+            "achievement_id": "THE_JOURNEY_OF_1000_MILES_ACHIEVEMENT",
+            "type": "collect",
+            "note": "收集40个收藏品",
+            "content": "",
+            "_uid": "umu1b4qwm39"
+          },
+          {
+            "achievement_id": "BEGINS_WITH_ACHIEVEMENT",
+            "type": "collect",
+            "note": "收集80个收藏品",
+            "content": "",
+            "_uid": "umu1b4qwm3a"
+          },
+          {
+            "achievement_id": "ONE_STEP_ACHIEVEMENT",
+            "type": "collect",
+            "note": "收集120个收藏品",
+            "content": "",
+            "_uid": "umu1b4qwm3b"
+          }
+        ],
+        "_uid": "umu1b4qwm38"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "DLC：异世界事件",
+        "description": "注：要想进入该dlc，需要完成本体主线剧情第七章（敌人的面目）后，从行政中心去往电梯的路上会接到热线电话，电梯多了一个“调查部”的楼层，开启DLC任务“黑暗之地”。",
+        "content": "",
+        "sub_achievements": [
+          {
+            "achievement_id": "TAKING_THE_HISS_ACHIEVEMENT",
+            "type": "主线",
+            "note": "对抗哈特曼\n不难打，多留意头顶的灯就好",
+            "content": "",
+            "_uid": "umu1b4qwm3d"
+          },
+          {
+            "achievement_id": "HARTFELT_ACHIEVEMENT",
+            "type": "主线",
+            "note": "击败哈特曼\n还是和之前一样的套路，多留意亮光就好",
+            "content": "",
+            "_uid": "umu1b4qwm3e"
+          },
+          {
+            "achievement_id": "RETRO_GAMER_ACHIEVEMENT",
+            "type": "misc",
+            "note": "在街机模式中打一场游戏\n在调查中枢游玩街机，注意必须完成1个",
+            "content": "",
+            "_uid": "umu1b4qwm3f"
+          },
+          {
+            "achievement_id": "MULTI_LAUNCH_ACHIEVEMENT",
+            "type": "misc",
+            "note": "使用多物投掷击打到3个目标\n调查中枢剧情后解锁 走左边学完技能正好出门3个怪，用技能杀掉后跳成就。注意是升起3个物体打3个敌人，不是3个打1个",
+            "content": "",
+            "_uid": "umu1b4qwm3g"
+          },
+          {
+            "achievement_id": "SPECIAL_DELIVERY_ACHIEVEMENT",
+            "type": "misc",
+            "note": "将冲击枪的手雷附在某个物体上，然后将该物体扔向敌人\n调查中枢剧情后解锁，制作武器，武器先射物体然后投掷物体。注意要瞄准后再射击，不然会直接爆炸",
+            "content": "",
+            "_uid": "umu1b4qwm3h"
+          },
+          {
+            "_uid": "umu1zkob82",
+            "achievement_id": "EXPLOSIONS_WITH_FRIENDS_ACHIEVEMENT",
+            "type": "累计",
+            "note": "使用冲击枪杀死50个敌人\n多留意一下就行，可以在街机的限时里面刷，里面基本都是小怪",
+            "content": ""
+          },
+          {
+            "achievement_id": "CUSTOM_BUILT_ACHIEVEMENT",
+            "type": "misc",
+            "note": "将冲击枪升级至最高级别\n最后一次升级需要主线推进到后期拿到相关素材才行，可能会比较缺隐藏趋势这个材料，只有有名字的敌人会掉落，主要目标这一类的控制局警报一定会有，平时也可能遇到随机刷新的",
+            "content": "",
+            "_uid": "umu1b4qwm3i"
+          },
+          {
+            "achievement_id": "VIVA_PINATA_ACHIEVEMENT",
+            "type": "misc",
+            "note": "队徽80%的异化自动贩卖机\n就是贩卖机，必须攻击才会有反映 。三个刷新地点：封锁的防火线： 2个贩卖机；  废弃的办公室：4个贩卖机 ； 行动中心：3个贩卖机。三个地点看过之后快速移动去其他区域再回来，也可以退出到主页面重进来刷新。",
+            "content": "",
+            "_uid": "umu1b4qwm3j"
+          },
+          {
+            "_uid": "umu1zkob83",
+            "achievement_id": "AIR_SUPERIORITY_ACHIEVEMENT",
+            "type": "累计",
+            "note": "杀死25名空中的特别行动队士兵\n快捷刷法：跟着流程走在第一次打败哈克曼跳杯后往左走，到第二个隐藏地点处，这里固定会刷怪，其中包括两个飞的目标怪，杀完后进入隐藏点，往里直走到底然后出来，会发现这波怪又刷新了。一直重复即可。也可以在街机里面刷。",
+            "content": ""
+          },
+          {
+            "_uid": "umu1zwazqh",
+            "achievement_id": "URBAN_SPELUNKER_AGAIN_ACHIEVEMENT",
+            "type": "collect",
+            "note": "在调查部找到80%的隐藏地点\n共5个，只需4个即可，这里给上一个b站链接：BV1Z54y1e7TC",
+            "content": ""
+          },
+          {
+            "_uid": "umu1zsk654",
+            "achievement_id": "DLC2_LORE_ACHIEVEMENT",
+            "type": "collect",
+            "note": "在调查部找到80%的收藏品\n在主线过程中多留意就行，还是给上一个b站链接：BV1dh41197D9给全收集的hy",
+            "content": ""
+          }
+        ],
+        "_uid": "umu1b4qwm3c"
+      },
+      {
+        "type": "main_anchor",
+        "_uid": "umu1zghd81",
+        "achievement_id": "",
+        "chapter": "DLC：地基",
+        "description": "",
+        "content": "",
+        "sub_achievements": [
+          {
+            "_uid": "umu1zu6x35",
+            "achievement_id": "TICKET_TO_RIDE_ACHIEVEMENT",
+            "type": "side",
+            "note": "完成旁支任务\n运输通道净化点，处理完一系列谜题后，有一波冲突战。打完后上最高处，看见指示牌Transit Access 下楼梯进电梯。打法视频链接：BV1sA411b7Te",
+            "content": ""
+          },
+          {
+            "_uid": "umu1zu6x36",
+            "achievement_id": "MASTER_OF_TARTARUS_ACHIEVEMENT",
+            "type": "side",
+            "note": "完成基础中所有任务\n包括DLC的主线任务和支线任务。\n第一个支线：清理完仓库那边的地点后回汇合地找波普。 \n第二个支线：运输通道控制点，处理完一系列谜题后，有一波冲突战。打完后上最高处，看见指示牌Transit Access 下楼梯进电梯（即上一个成就的任务）。\n第三个支线：洞穴系统控制点抬头看有个桥，用制造技能上去，一路走能看见有个能打碎的石柱，触发任务。",
+            "content": ""
+          },
+          {
+            "_uid": "umu1zv8om8",
+            "achievement_id": "BATTERING_RAM_ACHIEVEMENT",
+            "type": "累计",
+            "note": "用盾击杀死 100 个敌人\n这个技能建议早点学，地面怪通常两下可以冲死(精英怪除外).平时多注意.就不用收集完后再找怪打",
+            "content": ""
+          },
+          {
+            "_uid": "umu1zv8om9",
+            "achievement_id": "CREATE_DESTROY_ACHIEVEMENT",
+            "type": "累计",
+            "note": "使用形状和断裂总共 100 次\n造石头在汇合处学，拆石头在右边路的最终点学，多用，基本上中期就会跳",
+            "content": ""
+          },
+          {
+            "_uid": "umu1zv8oma",
+            "achievement_id": "RECRUITMENT_OFFICER_ACHIEVEMENT",
+            "type": "condition",
+            "note": "让一个部署的特别行动队士兵杀死 5 个敌人\n\n看见电台的地方呼叫一下增员把（一次只来一个士兵伤害又低），故意把敌人打残血让士兵慢慢磨吧。\n电台有4个地点：\n第一个地点在洞穴桥梁附近，3个桥中的一个桥的其中一个可以往下走的口，进口就是一个电台，下面有怪常刷。\n\n第二个地点在仓库塔的下面，进塔之前，初探索时候召唤出一个增援，但该场景并不会在初探索时刷怪。\n\n第三个地点在倒数第二个大区域，有很多层办公室的宽敞大厅，这是个初见就会刷很多怪的地点，把空中的优先清掉，然后用冲锋枪扫几个人，最好是普通的小兵扫成一滴血（迫真），然后躲着就行了，因为增援的眼神不太好，准度也不行，但是好在能抗，慢慢就可以打掉，狙击枪敌人最好能清就清，实在没兵了再留下，一次就可以成功，由于通关后各区域刷怪频率和数量都降低，所以最后初见就搞定，这也算是个流程杯，\n\n第四个地点在最终boss马歇尔之前，召唤他完全就是给你吸引火力的，对这个奖杯没有贡献。\n\n同时上一个dlc也有电台可以呼叫增援，就在异世界事件装卸港门口。",
+            "content": ""
+          },
+          {
+            "_uid": "umu1zv8omb",
+            "achievement_id": "X_RAYS_ACHIEVEMENT",
+            "type": "累计",
+            "note": "杀死 50 个希斯·夏普\n指地面上那种移动速度很快、拿着把锤子近战的怪。有的话杀掉就行。",
+            "content": ""
+          },
+          {
+            "_uid": "umu1zvtawc",
+            "achievement_id": "DIGGING_FOR_CLUES_ACHIEVEMENT",
+            "type": "collect",
+            "note": "收集基础看的所有收藏品\n还是给上链接，毕竟实在不好说。BV1v7411D7Dv",
+            "content": "<p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\"><span style=\"color: rgba(255, 255, 255, 0.45); white-space-collapse: preserve;\">BV1v7411D7Dv</span><br></p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">这里给出一份名单，方便hym对照：</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">研究与记录：1.洞穴绘画</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">2.地基支柱</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">3.地脉</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">4.美国一夜宿命/美国一夜结果（简中翻译纰漏）</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">5.天才看门人/天才清洁工（同）</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">6.太古屋的历史</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">7.金字塔几何结构</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">8.电源内核</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">9.地基蚀刻画</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">案件卷宗：1.招财猫程序</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">2.流星山概要/流星山补充说明（主要内容为概要，区别于另一篇流星山补充说明）</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">3.流行山补充说明</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">4.基辅概要</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">5.基辅补充说明</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">6.电影摄影机补充说明</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">7.VHS录像带补充说明</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">通信：1.搬迁令</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">2.地基事故</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">3.不可接受行为备忘录</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">4.冒险已接受</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">5.一切皆类人</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">6.绿色</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">7.位移说明第1点</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">8.位移说明第2点</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">9.位移说明第3点</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">10.阿什：请求遭到拒绝</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">11.诺斯莫尔：最终警告</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">12.诺斯莫尔：医疗结果/检查结果（同）</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">13.计算机程序</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">14.新语言</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">多媒体：1.日志1：发现</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">2.日志2：地基</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">3.日志3：工作</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">4.日志4：通行证</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">5.日志5：金字塔</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">6.日志6：出发</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">7.日志7：变化</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">8.日志8：目的</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">9.FBC提醒：窗户</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">10.被拒绝的剧集</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">11.《美国一夜》系列集382</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">12.《美国一夜》系列集367</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">13.布莱恩的电影剧本3/布赖恩的电影巢穴3（同）</p><p data-v-4defef32=\"\" class=\"text\" style=\"-webkit-tap-highlight-color: transparent; outline: 0px; margin-top: 12px; line-height: 25px; word-break: break-all; overflow-wrap: break-word;\">缺什么hym对照着视频找就好。注意全收集必须要dlc通关后才能找齐。</p>"
+          },
+          {
+            "_uid": "umu1zvtawd",
+            "achievement_id": "URBAN_SPELUNKER_ACHIEVEMENT",
+            "type": "collect",
+            "note": "查找基础中所有隐藏位置\n视频链接：BV1x5411b7dW",
+            "content": ""
+          },
+          {
+            "_uid": "umu1zvtawe",
+            "achievement_id": "PHANTOM_POOP_ACHIEVEMENT",
+            "type": "misc",
+            "note": "找到灵界洗手间\n倒塌洞室门口可以叫增援的地方，进去飞到最高处往里拐就能看到男厕了，进去之后发现不是厕所是灵界，还有一个收集品可以拿。",
+            "content": ""
+          },
+          {
+            "_uid": "umu1zvtawf",
+            "achievement_id": "FEELING_LUCKY_ACHIEVEMENT",
+            "type": "collect",
+            "note": "收集所有招财猫\n视频链接：BV1i7411D7DN。注意拿到奖励后才会跳成就。",
+            "content": ""
+          }
+        ]
+      }
+    ]
+  }
+}
