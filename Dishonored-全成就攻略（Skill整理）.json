@@ -1,0 +1,684 @@
+{
+  "format": "achievement-engine-guide",
+  "formatVersion": 1,
+  "exportedAt": "2026-09-19T09:36:42.398Z",
+  "game": "Dishonored",
+  "guideName": "Skill整理",
+  "categories": {
+    "custom": [],
+    "presets": {}
+  },
+  "guide": {
+    "game_notes": {
+      "new_game_plus": "本体加上三个 DLC 共 80 个成就。作者补全成就大约花了六十小时（此前已玩过六十小时）。\n难点集中在【难】这一档：本体是整周目的通关条件，【顿沃审判】则是挑战模式的 3 星要求。建议先把本体的整周目条件规划好再开，避免中途破功重来。",
+      "missable": [
+        {
+          "achievement_id": "ACHIEVEMENT_3",
+          "chapter": "本体 · 难（自虐）",
+          "reason": "整周目条件，中途被发现一次就得重来。建议五步一快速存档。"
+        },
+        {
+          "achievement_id": "ACHIEVEMENT_2",
+          "chapter": "本体 · 难（自虐）",
+          "reason": "整周目条件。平民、狗、混混被惊动都算破功。"
+        },
+        {
+          "achievement_id": "ACHIEVEMENT_12",
+          "chapter": "本体 · 难（自虐）",
+          "reason": "整周目条件。序章刺杀女皇也算杀人，刺客过来时只格挡、等剧情触发。"
+        },
+        {
+          "achievement_id": "ACHIEVEMENT_4",
+          "chapter": "本体 · 难（自虐）",
+          "reason": "整周目条件，一旦购买了闪现以外的能力就作废。"
+        },
+        {
+          "achievement_id": "ACHIEVEMENT_19",
+          "chapter": "本体 · 中（知道方法能简化）",
+          "reason": "老奶奶的三个支线任务必须做完，否则重返酒吧时下水道堵死，最后一幅画拿不到。"
+        },
+        {
+          "achievement_id": "ACHIEVEMENT_34",
+          "chapter": "本体 · 易（正常游戏即可轻松完成）",
+          "reason": "隐藏成就。第七章选择帮奶奶后大嘴巴必死，想同时拿背刺他的成就必须提前存档。"
+        },
+        {
+          "achievement_id": "ACHIEVEMENT_38",
+          "chapter": "本体 · 易（正常游戏即可轻松完成）",
+          "reason": "派对一旦被破坏就补不回来，走非致命或附身路线。"
+        },
+        {
+          "achievement_id": "ACHIEVEMENT_13",
+          "chapter": "本体 · 难（自虐）",
+          "reason": "平民一旦被惊动会跑光，必须在不引起警觉的前提下完成。"
+        },
+        {
+          "achievement_id": "ACHIEVEMENT_78",
+          "chapter": "布里格莫尔女巫 · 难",
+          "reason": "需要在【顿沃之锋】通关时至少留 4k 金币给女巫 DLC 继承，开档后补不回来。"
+        },
+        {
+          "achievement_id": "ACHIEVEMENT_74",
+          "chapter": "布里格莫尔女巫 · 易",
+          "reason": "不继承【顿沃之锋】的高混乱度存档，可能打不出高混乱度结局。"
+        },
+        {
+          "achievement_id": "ACHIEVEMENT_51",
+          "chapter": "顿沃审判 · 难",
+          "reason": "所有普通和专家挑战都要 3 星，专家模式看熟练度也看运气。"
+        },
+        {
+          "achievement_id": "ACHIEVEMENT_52",
+          "chapter": "顿沃审判 · 难",
+          "reason": "人头被 NPC 抢走就白打一轮，6 回合后每次刷怪都要立刻时停抢人头。"
+        }
+      ],
+      "tips": "本体与 DLC 的【难 / 中 / 易】是攻略作者的划分，反映的是「知道方法之后还难不难」。\n\n资料来源：\n· 成就列表和翻译来源：耻辱一代全 Steam 成就与介绍中文翻译\n· Steam 游戏指南页面的羞辱 / Dishonored 中文成就攻略\n· 攻略流程视频参考：【耻辱1全成就】盼星星盼月亮的顿沃城审判他来了！完美白金终于要来了！DLC1全成就\n\n⚠️ 图片：原攻略中的截图未能导入（本工具的图片需要手动粘贴），需要看图的请回原帖对照。\n\n⚠️ 名称：成就清单导出的是英文原名，攻略作者另附了中文译名，本文件以「中文名 + 中文描述」开头、下方接作者原文。作者笔下有若干英文拼写与 Steam 略有出入（如 Mostly Flesh and Steal / Massage from the Empress / Wall of Flash），已按 Steam 的正确拼写匹配。"
+    },
+    "timeline": [
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "本体 · 难（自虐）",
+        "description": "通关级别的硬条件，都要一整周目。作者在引言里把这一档标为自虐。",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACHIEVEMENT_3",
+            "type": "condition",
+            "note": "暗影\n在不被任何人察觉的情况下完成序章之后的全部任务。\n\n五步一快速存档，十步一个大存档。\n\n注意：敌人的警戒值可以升到 3 条全满，但不能真正发现你（警戒条变红破碎）。淡水甲壳、老鼠攻击你不算被察觉。",
+            "_uid": "umu83gj7k1t"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_2",
+            "type": "condition",
+            "note": "幽灵\n完成序章之后的全部任务，不惊动任何人、不杀死任何人，关键目标除外。\n\n勒晕是可以的。\n\n「任何人」包括但不限于卫兵，也包括狗、混混、恸哭者，以及会被惊动的平民。",
+            "_uid": "umu83gj7k1u"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_12",
+            "type": "condition",
+            "note": "干净的手\n通关游戏且没有杀人。\n\n不确定的信息：序章也不能杀人（刺杀女皇），所以刺客过来的时候最好只格挡，一段时间后会自动触发剧情。",
+            "_uid": "umu83gj7k1v"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_13",
+            "type": "combat",
+            "note": "艰难的抉择\n导致 5 名敌人无意识的自杀。\n\n目前确定可行的办法，是在第五章波义耳女士的派对上附身 5 个平民，走到光之壁前解除附身，让他们向前踉跄两步撞电网。\n\n难点在于最好不要引起警觉，不然平民很快就会跑得一个不剩。\n\n改电网的电路然后把敌人引过来电死不算自杀；改电路后附身警卫让他撞电网没验证过。",
+            "_uid": "umu83gj7k1w"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_4",
+            "type": "condition",
+            "note": "极致的刺杀与偷窃\n除闪现外，不购买任何超自然能力或强化，通关游戏。\n\n剧情给的一级闪现还是可以用，骸骨护符也能带，所以没那么恶心。\n",
+            "_uid": "umu83gj7k1x"
+          }
+        ],
+        "content": "",
+        "_uid": "umu83gj7k1s"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "本体 · 中（知道方法能简化）",
+        "description": "知道方法之后并不难，属于「会了就不难」的一档。",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACHIEVEMENT_19",
+            "type": "collect",
+            "note": "艺术经销商\n收集游戏中所有的画作。\n\n要做这个成就，老奶奶的三个支线任务必须做完，重返酒吧时下水道才能拿到最后一幅画，否则路是堵死的。打高混乱方便点。",
+            "content": "<p>共 11 幅画的名称与位置：</p><p>(1) The Isometry of High Overseer Thaddeus Campbell —— 第二章坎贝尔的密室<br />(2) Light Along the Inverse Curve, Sokolov's Self Portrait —— 第三章画商的宅邸 2 楼<br />(3) Custis, Morgan and the Postulate Child —— 第三章画家的宅邸 3 楼的保险箱内<br />(4) Daud and the Parabola of Lost Seasons —— 第三章画家的宅邸 3 楼<br />(5) The Obtuse Arguments of Lady Boyle —— 第四章苏可洛夫的宅邸 1 楼<br />(6) Vera Moray and the Affix of Her Skin —— 第五章波义耳宅邸 2 楼陈列室内<br />(7) The Spymaster's Axis of Asymmetry —— 第五章波义耳宅邸 2 楼，刺杀目标波义耳夫人的房间内，床正对面挂着<br />(8) The Empress and the Empty Set —— 第六章摄政王卧室隔壁的房间，和摄政王的房间隔着一个壁炉，可以直接从壁炉里穿过去<br />(9) The Commutative Rats and the Weeper —— 第七章出来后一群淡水甲鱼大概斜上方的位置，会看见一个阳台，里面有画和一个恸哭者，位置比较隐蔽<br />(10) The Torturer's Quaternionic Groan —— 第七章道德的基地，拿到下水道钥匙后顺着铁链下楼时，倒数第 2 楼会看到<br />(11) The Outsider and the Circumscribed Void —— 第七章拉格斯奶奶和大嘴对质的地方，老奶奶的小屋床头（需要完成第三章奶奶的两个任务）</p>",
+            "_uid": "umu83gj7k1z"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_9",
+            "type": "combat",
+            "note": "操纵者\n使敌人杀死他的 5 个队友。\n\n第二关酿酒区勒晕 5 个混混叠在一起，吸引另一个混混向混混堆喷火。",
+            "_uid": "umu83gj7k20"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_17",
+            "type": "combat",
+            "note": "风暴\n在 1 秒内杀死 6 名敌人。\n\n将 6 个昏迷的敌人堆在一起用手雷炸。重返酒吧用电塔将敌人全部电晕后存个档做这个成就最方便。\n\n注意你搬太远、太多的敌人时，之前的有概率被系统刷新掉，所以最好搬一个存一次档。",
+            "_uid": "umu83gj7k21"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_14",
+            "type": "misc",
+            "note": "长期居住\n附身在其他物体上 3 分钟。\n\n一级的占据，附身老鼠然后呆在有破洞的通风管道之中 —— 在通风管道里你有无限的占据时间，不会被踢出来。\n\n评论区有人说失败变回去被挤死了，这可能是不小心误触解除变身，或者途中切出了游戏。维持游戏画面挂机 3 分钟后出洞就有了。",
+            "_uid": "umu83gj7k22"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_15",
+            "type": "combat",
+            "note": "马蜂窝\n在 1 秒内用弩箭杀死 4 名敌人。\n\n用时停，忘记需不需要爆头了。",
+            "_uid": "umu83gj7k23"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_48",
+            "type": "combat",
+            "note": "滚回去\n将一颗即将爆炸的手榴弹扔回去且炸死一人。\n\n找督军，结合减缓时间流速。只是时间停止放在敌人旁边没用，必须扔过去。",
+            "_uid": "umu83gj7k24"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_1",
+            "type": "combat",
+            "note": "武器大师\n在同一个地图中用每种武器各杀死 1 人。\n\n包括：弹簧剃刀陷阱、子弹、爆炸子弹、十字弓弹、剑、手雷、粘雷和燃烧箭。\n\n部分需蓝图获得。\n\n评论区有人说这个成就里很坑的地方是爆炸子弹要靠爆炸炸死敌人才算，如果有没跳成就的可以试一下。",
+            "_uid": "umu83gj7k25"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_33",
+            "type": "condition",
+            "note": "凭空消失\n逃出寒脊监狱且未被看守者察觉。",
+            "_uid": "umu83gj7k26"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_11",
+            "type": "condition",
+            "note": "外科手术\n从第一个任务到考德温大桥的过程中，杀人数少于 10 人。",
+            "_uid": "umu83gj7k27"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_21",
+            "type": "condition",
+            "note": "逃脱专家\n逃离寒脊监狱后，在不杀死他们也不离开地图的情况下同时甩掉 5 名追捕者。\n\n第二关进入酿酒区，开枪让混混都发现你（不能只是三级警觉），减缓时间流动闪现到管子上，然后躲到房顶后面。混混爬不上来，搜索一会放弃后就会弹成就。",
+            "_uid": "umu83gj7k28"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_8",
+            "type": "condition",
+            "note": "素未谋面\n逃离寒脊监狱后，完成任意一个任务且未被察觉。",
+            "_uid": "umu83gj7k29"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_7",
+            "type": "condition",
+            "note": "凶兆\n逃离寒脊监狱后，不惊动任何人的情况下完成任意一个任务，且杀人数小于 5。",
+            "_uid": "umu83gj7k2a"
+          }
+        ],
+        "content": "",
+        "_uid": "umu83gj7k1y"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "本体 · 易（正常游戏即可轻松完成）",
+        "description": "33 条，正常推进剧情顺手就能拿到大部分。清单里有 24 条 Steam 描述为空，描述取自攻略作者自己的说明。",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACHIEVEMENT_37",
+            "type": "combat",
+            "note": "不幸之灾\n用蒸汽杀死潘德顿双胞胎之一。\n\n金猫的 1 楼大院有直接通往地下的桑拿浴室的入口，内有两名聊天的警卫。解决后靠近任务箭头所在的位置，会听到摩根和女服务员在桑拿房聊天。（也可以不解决警卫，直接打开蒸汽，警卫似乎听不到 —— 至少作者玩的时候是这样）\n\n桑拿房隔壁有一个小房间是控制蒸汽的，需要从金猫老板身上偷到的钥匙开门，把阀门装到旁边的通气管道上，然后拧到最大就完事了。",
+            "_uid": "umu83gj7k2c"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_46",
+            "type": "misc",
+            "note": "停止呼吸\n附身在鱼身上。",
+            "_uid": "umu83gj7k2d"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_49",
+            "type": "combat",
+            "note": "大家伙\n只用剑杀死一名高跷士兵（下落攻击）。",
+            "_uid": "umu83gj7k2e"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_40",
+            "type": "side",
+            "note": "贴身护卫\n使科林在任务中幸存。",
+            "_uid": "umu83gj7k2f"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_26",
+            "type": "main",
+            "note": "抓到的是天才还是疯子\n完成大桥关卡。",
+            "_uid": "umu83gj7k2g"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_25",
+            "type": "main",
+            "note": "育儿专家\n找到艾米莉·考德温。",
+            "_uid": "umu83gj7k2h"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_22",
+            "type": "combat",
+            "note": "刽子手\n同时与 5 名敌人对战且无人生还。",
+            "_uid": "umu83gj7k2i"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_47",
+            "type": "misc",
+            "note": "毛骨悚然\n附身老鼠穿过管道。",
+            "_uid": "umu83gj7k2j"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_23",
+            "type": "main",
+            "note": "蒙冤之日\n完成教学关。",
+            "_uid": "umu83gj7k2k"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_31",
+            "type": "condition",
+            "note": "帝都陷落\n在高混乱度下通关游戏（最终章下暴雨就是高混乱）。",
+            "_uid": "umu83gj7k2l"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_24",
+            "type": "main",
+            "note": "开除军籍\n清除至高督军坎贝尔。",
+            "_uid": "umu83gj7k2m"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_45",
+            "type": "combat",
+            "note": "食物链\n刺杀 1 名刺客。",
+            "_uid": "umu83gj7k2n"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_34",
+            "type": "side",
+            "note": "绅士传唤者\n完成拉格斯老奶奶的三个连续任务。\n\n第二章绅士传唤员 + 感染万灵药；第七章奶奶的食谱。\n\n第七章选择帮奶奶的话，松鄂（大嘴巴）肯定是死定了，否则任务完成不了、成就出不来。如果想背刺刷大嘴巴成就的话，提前存个档。\n\n为什么要特别提醒存个档呢？因为这个是隐藏成就。作者原本单纯奔着收集画来的，结果忘记存档、弃暗投明背刺奶奶，然后才发现隐藏成就内容，导致又做了一次水淹区任务。",
+            "_uid": "umu83gj7k2o"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_32",
+            "type": "condition",
+            "note": "该天亮了\n在低混乱度下通关游戏。",
+            "_uid": "umu83gj7k2p"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_39",
+            "type": "side",
+            "note": "世界之王\n到达考德温大桥的最高处。\n\n大桥关卡有重兵和电弧塔把守的地方，顺着钢缆爬，配合二级闪现能省很多事。\n\n任务追踪处再高一两层就能弹成就。作者记得是个大转轮位置再上去一点点。",
+            "_uid": "umu83gj7k2q"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_42",
+            "type": "side",
+            "note": "熄灯\n在王雀岛关闭至少 5 个安全系统（警报器、电光门、电击塔）。\n\n黑掉设备和拿掉电源均可。\n\n无论低 / 高混乱结局都可以达成：一座瞭望塔（下船就能看到，但是不知道一级闪现上不上得去）；两道光幕，两座电弧塔（一座在瞭望塔附近，另一座在电梯前的过道里）。",
+            "_uid": "umu83gj7k2r"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_43",
+            "type": "main",
+            "note": "女皇万岁\n使艾米莉·考德温当上女皇。",
+            "_uid": "umu83gj7k2s"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_41",
+            "type": "side",
+            "note": "仁慈的印记\n饶恕达乌德。",
+            "_uid": "umu83gj7k2t"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_18",
+            "type": "misc",
+            "note": "热爱混乱\n升级装备 15 次。",
+            "_uid": "umu83gj7k2u"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_20",
+            "type": "collect",
+            "note": "魔法学者\n收集 10 个骸骨符文。",
+            "_uid": "umu83gj7k2v"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_44",
+            "type": "condition",
+            "note": "罪有应得\n用非致命手段解决所有关键目标。",
+            "_uid": "umu83gj7k2w"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_28",
+            "type": "main",
+            "note": "仕途不再\n将摄政王的罪行公之于众，并促成他被捕。",
+            "_uid": "umu83gj7k2x"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_10",
+            "type": "combat",
+            "note": "剃刀雨\n使用高空刺杀干掉 5 名敌人。",
+            "_uid": "umu83gj7k2y"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_27",
+            "type": "main",
+            "note": "弑君\n刺杀摄政王海勒姆·伯罗斯。",
+            "_uid": "umu83gj7k2z"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_30",
+            "type": "main",
+            "note": "信念坚定\n通关游戏。",
+            "_uid": "umu83gj7k30"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_6",
+            "type": "combat",
+            "note": "小捣蛋鬼\n在未被发现的情况下清除 10 名敌人。",
+            "_uid": "umu83gj7k31"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_16",
+            "type": "misc",
+            "note": "疾如影\n在 1 秒内移动 30 米（时停和闪现）。",
+            "_uid": "umu83gj7k32"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_35",
+            "type": "side",
+            "note": "后巷中的阴谋\n完成大嘴巴的两个任务（第三、七章）。",
+            "_uid": "umu83gj7k33"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_36",
+            "type": "side",
+            "note": "盗亦有道\n向大嘴巴提交画家的保险箱密码前，先打开保险箱。",
+            "_uid": "umu83gj7k34"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_0",
+            "type": "collect",
+            "note": "小偷\n扒窃价值总计 200 枚硬币的物品。",
+            "_uid": "umu83gj7k35"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_29",
+            "type": "main",
+            "note": "这些是我的东西\n在水淹区找回你的物品。",
+            "_uid": "umu83gj7k36"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_5",
+            "type": "combat",
+            "note": "电光墙\n用光之壁杀死 1 名敌人。",
+            "_uid": "umu83gj7k37"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_38",
+            "type": "condition",
+            "note": "遵守秩序\n未破坏波义耳夫人的派对。\n\n用非致命方法，或者占据附身前往地下室再解决。",
+            "_uid": "umu83gj7k38"
+          }
+        ],
+        "content": "",
+        "_uid": "umu83gj7k2b"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "顿沃之锋 · 难",
+        "description": "【顿沃之锋】DLC 的通关级硬条件。",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACHIEVEMENT_66",
+            "type": "condition",
+            "note": "更干净的手\n通关顿沃之锋且没有杀人。\n\n第二章用非致命方法暗杀大律师时，可能是 bug 或者什么原因，大律师卡在门口不走剧情了，切换地图后自动显示完成。",
+            "_uid": "umu83gj7k3a"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_65",
+            "type": "condition",
+            "note": "小声说话\n通关顿沃之锋且未被察觉。\n\n两个难点：\n\n1. 第二章与贵族女儿见面时她被混混缠上了，混混头顶上会埋伏两个人，但是比较瞎。作者的处理方式是闪现到他们身后的楼里（小心绊线）用麻醉镖，或者窒息尘埃。\n\n2. 第三章救被抓住的刺客，建议点个时停，反正女巫 DLC 也能继承；要不然就麻醉针和窒息尘埃。",
+            "_uid": "umu83gj7k3b"
+          }
+        ],
+        "content": "",
+        "_uid": "umu83gj7k39"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "顿沃之锋 · 中",
+        "description": "【顿沃之锋】中，知道方法能简化的一档。",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACHIEVEMENT_64",
+            "type": "condition",
+            "note": "救赎计划\n在低混乱度下完成顿沃之锋。",
+            "_uid": "umu83gj7k3d"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_68",
+            "type": "combat",
+            "note": "女皇的问候\n在顿沃之锋中，从女皇的雕像顶部跳下并杀死 1 人（第三章）。\n\n提前存个档，不然摔死很难看。",
+            "_uid": "umu83gj7k3e"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_67",
+            "type": "combat",
+            "note": "老鼠炸弹\n将弧光雷安装在老鼠身上并炸死一个敌人。\n\n顿沃之锋第二章入场地图光之壁外，街上有一个下级守卫往回走的时候喜欢踩老鼠。跟在他后面或者时停，马上要踩的前一两秒把弧光雷放在老鼠身上即可。\n\n（攻略把这条同时列在【顿沃之锋】和【布里格莫尔女巫】下，Steam 上只有一条，归在顿沃之锋。）",
+            "_uid": "umu83gj7k3f"
+          }
+        ],
+        "content": "",
+        "_uid": "umu83gj7k3c"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "顿沃之锋 · 易",
+        "description": "【顿沃之锋】易，正常通关即可。",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACHIEVEMENT_61",
+            "type": "main",
+            "note": "丢失的零件\n与提姆士的侄女见面。",
+            "_uid": "umu83gj7k3h"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_63",
+            "type": "condition",
+            "note": "毫不留情\n在高混乱度下完成顿沃之锋。",
+            "_uid": "umu83gj7k3i"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_60",
+            "type": "main",
+            "note": "只是在谈生意\n从罗德维德屠宰场获得你需要的信息。",
+            "_uid": "umu83gj7k3j"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_69",
+            "type": "side",
+            "note": "冰冷的石心\n与提姆士家中的德莱拉女巫的雕像对话（不会引起警觉）。",
+            "_uid": "umu83gj7k3k"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_62",
+            "type": "collect",
+            "note": "打好关系\n购买顿沃之锋中所有帮助。",
+            "_uid": "umu83gj7k3l"
+          }
+        ],
+        "content": "",
+        "_uid": "umu83gj7k3g"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "布里格莫尔女巫 · 难",
+        "description": "【布里格莫尔女巫】DLC 的通关级硬条件。",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACHIEVEMENT_77",
+            "type": "condition",
+            "note": "最干净的手\n通关布里格莫尔女巫且没有杀人。\n\n第二关有一个符文需要献祭一男一女（死活不论）。如果勒晕一个鳗鱼帮女性带过去，是不会造成击杀的。\n\n或者开局进场看到帮派打架时，躲在高处用弩箭射鳗鱼帮女性的大腿，让她僵直、更容易被对手击杀留下尸体。（死鳗帮的酸雾瓶还是太超标了，不干涉看他们打，七八成都是死鳗帮赢）\n\n同样是第二关，二楼的一个黑市商人会给你刺杀委托，可以直接撒谎完成了，不会对后续造成影响。",
+            "_uid": "umu83gj7k3n"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_78",
+            "type": "condition",
+            "note": "衣食无忧\n在低混乱度下完成布里格莫尔女巫且拥有 10000 金币。\n\n难点在于计算实时拥有的金币（作者是存了 1w 才跳成就）且通关。女巫 DLC 共三章，刮地皮且不购买商品，也只有 7k+ 左右金币。\n\n因此这个成就需要从【顿沃之锋】开一个存档，通关时至少留 4k 金币给布里格莫尔女巫继承（女巫 DLC 开档时会自动检测通关存档）。\n\n女巫第一章牢门管理房的顶部上方藏着一处价值 500+ 的补给，能大大降低收集压力。该省省该花花。",
+            "_uid": "umu83gj7k3o"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_76",
+            "type": "condition",
+            "note": "沉默是金\n通关布里格莫尔女巫且未被察觉。\n\n三个注意点：\n\n1. 第一章 A 区监狱三楼还是四楼，有一个帽子帮的混蛋，一看到你就会大喊通知警卫。\n\n2. 第二章帽子帮下水道有一个女巫当诱饵、两个女巫埋伏。当诱饵的女巫可以勒晕或者麻醉；埋伏的女巫可以从她们脚下绕过去，或者时停处理。\n\n3. 第二章帮死鳗帮找回动力线圈，安装线圈时会出现几个女巫。作者的处理方法是安装前就去她们藏的地方（火车后面，小心绊线）用时停、催眠针和窒息尘埃提前勒晕。\n\n第三章墓园地下的骸骨护符如果要收集的话，最好时停，不然会被雕像看到。",
+            "_uid": "umu83gj7k3p"
+          }
+        ],
+        "content": "",
+        "_uid": "umu83gj7k3m"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "布里格莫尔女巫 · 中",
+        "description": "【布里格莫尔女巫】中，知道方法能简化的一档。",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACHIEVEMENT_79",
+            "type": "combat",
+            "note": "血肉之墙\n将一名敌人用虚空牵引举起，作为盾牌挡住攻击。\n\n需要升满虚空牵引，抓人挡枪 / 挡箭。第二章鳗鱼帮装上动力线圈后会出现好几个女巫主动攻击，比较适合提前存档刷这个成就。\n\n帽子帮下水道有两个埋伏的女巫，用虚空牵引可以创造 1V1 环境，刷这个成就也简单。",
+            "_uid": "umu83gj7k3r"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_75",
+            "type": "condition",
+            "note": "已改变的未来\n在低混乱度下完成布里格莫尔女巫。",
+            "_uid": "umu83gj7k3s"
+          }
+        ],
+        "content": "",
+        "_uid": "umu83gj7k3q"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "布里格莫尔女巫 · 易",
+        "description": "【布里格莫尔女巫】易，正常通关即可。",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACHIEVEMENT_70",
+            "type": "main",
+            "note": "临别赠言\n对科尔沃发出（或尝试发出）致命一击。（确实只能梦里实现了）",
+            "_uid": "umu83gj7k3u"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_71",
+            "type": "main",
+            "note": "越狱\n将莉齐从寒脊监狱中救出。",
+            "_uid": "umu83gj7k3v"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_72",
+            "type": "main",
+            "note": "帝都团伙\n让温蒂尼号出航。",
+            "_uid": "umu83gj7k3w"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_74",
+            "type": "condition",
+            "note": "全面瓦解\n在高混乱度下完成布里格莫尔女巫。\n\n如果不继承【顿沃之锋】的高混乱度存档，【布里格莫尔女巫】可能会出现打不出高混乱度结局的情况。",
+            "_uid": "umu83gj7k3x"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_73",
+            "type": "collect",
+            "note": "合作愉快\n购买布里格莫尔女巫中至少 8 条有利信息。",
+            "_uid": "umu83gj7k3y"
+          }
+        ],
+        "content": "",
+        "_uid": "umu83gj7k3t"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "顿沃审判 · 难",
+        "description": "【顿沃审判】是挑战模式 DLC，这一档都是重量级。",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACHIEVEMENT_51",
+            "type": "difficulty",
+            "note": "虚空之星\n以 3 星评价完成所有普通和专家挑战。\n\n恶心大合集，基本每个专家模式都是重量级。光看攻略没用，还需要相当的熟练度和一些运气。",
+            "content": "<p>作者对各挑战的点评：</p><p><b>篝火专家</b>：也许骂耻辱 1 全成就难不一定会提到篝火专家，但是如果不骂篝火专家总觉得骂得不够直抒胸臆。卡蓝量，还有一堆刺客缀在后面虚空牵引恶心你，被追上了就是混合暴揍，屡次让人功亏一篑。虽然不是打得最久的，但是恶心程度、熟练度考察和看运气程度是最高的。有时候顺手的话可以杀一个刺客，虽然他马上就会刷新，但不会警觉追你。总之还是得多跑多尝试，提高熟练度，加快节奏让刺客追不上你。</p><p><b>篝火普通</b>：熟图的时间成本较高，目标点又存在随机性，给你在地图另一端刷个目标点就老实了。不过最大的难点其实是做组合跳成就时的决策压力。</p><p><b>神偷专家</b>：也是重量级，但和篝火专家的本质区别在于它不那么吃运气，也没有时间要求，只需要耐心谨慎就一定能过，所以带来的挫败感反而不高，打起来挺有意思的。</p><p><b>后街火拼普通</b>：因那个该死的成就臭名昭著。</p><p><b>后街火拼专家</b>：不担心被抢人头，难度反而还可以接受，利用时停和跳杀不算困难。</p><p><b>火车快跑专家</b>：跟攻略，唯一的难点是在移动火车上打中鲸油罐。</p><p><b>飞降杀女皇专家</b>：送分挑战，注意回满蓝量再闪现即可。</p><p><b>迷之敌手专家</b>：需要尝试次数在可接受范围，由于得分和时间有关，所以有时候线索刷在脸上的开局会简单很多。</p><p><b>油罐倾倒普通</b>：感觉有 FPS 基础就能一次过。</p>",
+            "_uid": "umu83gj7k40"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_57",
+            "type": "difficulty",
+            "note": "冒失鬼\n在「篝火」中，在一回合内完成所有特殊组合跳。\n\n6 个不同的组合跳，比较看运气。跟着攻略走开局固定能做 2 个组合跳，剩下的有跨窗跳、侧跳、跨石跳、女王跳（作者自个起的名，方便记忆），挑战的时候心里记住还有什么没跳，能更好地捋清思路。\n\n在同一轮中可以重复组合跳，但必须做出 6 种不同的才会弹成就。另外如果地点没有被设为目标点，即使用出了组合跳也不会判定为「巧妙的跳跃」。\n\n成功实现系统认可的组合跳时，屏幕会出现时间减速的特效，左下角记分牌显示「巧妙的跳跃」。",
+            "_uid": "umu83gj7k41"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_52",
+            "type": "difficulty",
+            "note": "出自一人之手\n在「后巷火拼」中到达第 13 波，并亲手杀死所有格斗者。\n\n一个不注意混混就喷火烧死一条狗，警卫瞬杀混混，或者超雄刺客抢人头。\n\n为防止被抢人头，6 回合之后，怪一刷新就直接减缓时间流动，边清怪边留意有没有互相敌对的怪（混混、刺客、恸哭者），优先去抢人头。\n\n跳杀、下落刺杀是性价比和效率最高的。注意奸商也算人头数。",
+            "content": "<p>刷怪数量、情况和杀敌数笔记（数字是对的，刷敌情况不一定完全对应）：</p><p>第一回合：3（丧尸）<br />第二回合：3（丧尸）<br />第三回合：4（奸商）<br />第四回合：4（混混）<br />第五回合：4（混混）</p><p><b>| 开始用时停 |</b></p><p>第六回合：5（混混 + 刺客 + 奸商）<br />第七回合：4（3 个楼下警卫 + 1 个楼顶刺客）</p><p><b>| 第八回合全是警卫不用担心抢人头，掏手雷准备炸放音乐的督军 |</b></p><p>第八回合：4（检查：右上角应显示杀 31）<br />第九回合：6（刺客 + 惩罚者 + 奸商）（可能会刷惩罚者，跳杀秒了）</p><p><b>| 第十回合某一侧开始刷一个高跷 |</b></p><p>第十回合：5（混混 + 高跷）</p><p><b>| 第十一回合另一侧刷一个高跷 |</b></p><p>第十一回合：5（高跷 + 三刺客）</p><p><b>| 第十二回合两边都刷高跷 |</b></p><p>第十二回合：6（高跷 + 音乐督军 + 奸商）<br />（检查：右上角应显示杀 53，第十三回合开始就会跳成就了）</p>",
+            "_uid": "umu83gj7k42"
+          }
+        ],
+        "content": "",
+        "_uid": "umu83gj7k3z"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "顿沃审判 · 中",
+        "description": "【顿沃审判】中，知道方法能简化的一档。",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACHIEVEMENT_56",
+            "type": "difficulty",
+            "note": "爆头猎手\n仅用爆头以 100% 命中率完成「刺客之路」。\n\n不追求快，但一定要稳。\n\ndonk 来了也最好看一下攻略视频流程。不然摇头晃脑的恸哭者和闪现近身的刺客会展示什么叫背身三箭不死。\n\n最后的一部分可以看攻略卡 bug 跳关。",
+            "_uid": "umu83gj7k44"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_58",
+            "type": "difficulty",
+            "note": "天赋异禀\n不使用任何主动超自然能力完成「迷之敌手」。\n\n多利用勒晕，比如开局将四周走廊巡逻的警卫麻醉或者勒晕，可简单完成。",
+            "_uid": "umu83gj7k45"
+          }
+        ],
+        "content": "",
+        "_uid": "umu83gj7k43"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "顿沃审判 · 易",
+        "description": "【顿沃审判】易，跟攻略多试几次即可。",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACHIEVEMENT_59",
+            "type": "difficulty",
+            "note": "时间管理专家\n完成「连环击杀」或「时停屠杀」，且没有一波失败（含奖励关卡的目标）。\n\n虽说翻译是「或者」，但似乎两个都通关了才弹的成就，作者没注意。\n\n时停击杀最好跟攻略。连环击杀、闪现一个个杀过去都行，但这两个想拿高分讲究花样击杀。",
+            "_uid": "umu83gj7k47"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_55",
+            "type": "difficulty",
+            "note": "高空坠物\n在「击杀瀑布」中，从至少 150 米高度跳下并完成高空刺杀。（公式路线，看攻略记点位多试几次就行）",
+            "_uid": "umu83gj7k48"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_53",
+            "type": "difficulty",
+            "note": "刺客VS机器\n完成「火车快跑」，并在火车抵达之前完成任务。（公式路线，看攻略记点位多试几次就行）",
+            "_uid": "umu83gj7k49"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_50",
+            "type": "collect",
+            "note": "女王陛下的玩偶\n找到全部 10 个挑战中藏着的艾米莉的玩偶。（收集到直接退就行，不需要打完关卡）",
+            "_uid": "umu83gj7k4a"
+          },
+          {
+            "achievement_id": "ACHIEVEMENT_54",
+            "type": "collect",
+            "note": "古董收藏家\n在专家难度「神偷」中找到所有可收集的雕塑。（先清空警卫再找）",
+            "_uid": "umu83gj7k4b"
+          }
+        ],
+        "content": "",
+        "_uid": "umu83gj7k46"
+      }
+    ]
+  }
+}

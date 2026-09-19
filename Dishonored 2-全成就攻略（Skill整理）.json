@@ -1,0 +1,553 @@
+{
+  "format": "achievement-engine-guide",
+  "formatVersion": 1,
+  "exportedAt": "2026-09-19T09:32:49.367Z",
+  "game": "Dishonored 2",
+  "guideName": "Skill整理",
+  "categories": {
+    "custom": [],
+    "presets": {}
+  },
+  "guide": {
+    "game_notes": {
+      "new_game_plus": "建议两个周目完成。\n一周目：不杀人、低混乱、无超能力、不潜行 —— 拿掉绝大部分成就，角色选艾米丽。\n二周目：杀人、高混乱、用超能力、潜行 —— 收掉需要超能力的 7 条，角色选科尔沃。",
+      "missable": [
+        {
+          "achievement_id": "ACH_41",
+          "chapter": "一周目 · 全流程成就",
+          "reason": "第一章拒绝界外魔印记。接受之后这条就作废，没有回头路。"
+        },
+        {
+          "achievement_id": "ACH_9",
+          "chapter": "第一章 · 一项紧急任务",
+          "reason": "报社顶层的营救时机一次性，必须等士兵拔剑后再动手。"
+        },
+        {
+          "achievement_id": "ACH_25",
+          "chapter": "第一章 · 一项紧急任务",
+          "reason": "第一章和第九章的保险箱都要搜刮，漏掉任意一次就解锁不了。"
+        },
+        {
+          "achievement_id": "ACH_11",
+          "chapter": "第二章 · 世界边缘",
+          "reason": "必须在士兵把市民推进光幕之前阻止，走过这个场面就没了。"
+        },
+        {
+          "achievement_id": "ACH_47",
+          "chapter": "第二章 · 世界边缘",
+          "reason": "第二、六、八章各一对二重奏。抢劫黑市次数太多会导致第八章那对不出现。"
+        },
+        {
+          "achievement_id": "ACH_14",
+          "chapter": "第四章 · 机关宅邸",
+          "reason": "第四、六章各能杀帕欧罗一次，错过一章就凑不满三次。"
+        },
+        {
+          "achievement_id": "ACH_17",
+          "chapter": "第六章 · 沙尘区",
+          "reason": "与「Faithful to the Abbey」互斥，同一周目只能拿一个。"
+        },
+        {
+          "achievement_id": "ACH_18",
+          "chapter": "第六章 · 沙尘区",
+          "reason": "与「Howlers 'til the End」互斥，同一周目只能拿一个。"
+        },
+        {
+          "achievement_id": "ACH_19",
+          "chapter": "第六章 · 沙尘区",
+          "reason": "一旦提前拿到并使用密码，这条就作废。"
+        },
+        {
+          "achievement_id": "ACH_20",
+          "chapter": "第七章 · 石板上的裂缝",
+          "reason": "取钥匙时守卫必须保持未惊动，被发现就不算。"
+        },
+        {
+          "achievement_id": "ACH_22",
+          "chapter": "第七章 · 石板上的裂缝",
+          "reason": "只在「过去」时间线里能打断连接物，回到现在就没机会了。"
+        },
+        {
+          "achievement_id": "ACH_23",
+          "chapter": "第九章 · 女皇之死",
+          "reason": "要求低混乱度；高混乱度要额外去梅根的船舱才能听到。"
+        },
+        {
+          "achievement_id": "ACH_36",
+          "chapter": "收集成就",
+          "reason": "必须一周目内集齐全部画作，二周目要重新全收集而不是补缺。"
+        }
+      ],
+      "tips": "每章的画、护符、符文、设计图、收集品、日志数量都写在章节描述里，可以用来核对有没有漏收集。\n\n参考文献：\n[1]《耻辱2全成就》 https://www.bilibili.com/read/cv27500738/\n[2]《耻辱2全成就50个（按照章节分）》https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?h_camp=link&h_src=YXBwX3NoYXJl&link_id=1629717fab98&new_post_share_style=true"
+    },
+    "timeline": [
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "一周目 · 全流程成就",
+        "description": "一周目的通关目标：不杀人、低混乱、无超能力、不潜行。角色建议选艾米丽。",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACH_41",
+            "type": "condition",
+            "note": "不使用超能力通关。第一章拒绝界外魔的印记。",
+            "content": "<p>在不使用超能力的情况下完成游戏。</p><p><b>第一章中拒绝界外魔的印记</b> —— 一旦接受，这条就作废了，而且没有回头路。</p>",
+            "_uid": "umu81j0gt1"
+          },
+          {
+            "achievement_id": "ACH_50",
+            "type": "condition",
+            "note": "不杀人完成游戏。机器人和狗不算。",
+            "content": "<p>在不杀人的情况下完成游戏。</p><p><b>机器人和狗除外</b> —— 发条战士和猎犬击杀都不影响。</p>",
+            "_uid": "umu81j0gt2"
+          },
+          {
+            "achievement_id": "ACH_44",
+            "type": "condition",
+            "note": "低混乱度完成游戏。",
+            "_uid": "umu81j0gt3"
+          },
+          {
+            "achievement_id": "ACH_43",
+            "type": "main",
+            "note": "扮演艾米丽完成游戏。",
+            "_uid": "umu81j0gt4"
+          },
+          {
+            "achievement_id": "ACH_34",
+            "type": "collect",
+            "note": "累计收集游戏中 60% 的财富，大约 18000 即可。",
+            "content": "<p>累计收集游戏中 60% 的财富，大概 18000 即可。</p><p>不必强求全收集，一周目正常搜刮一般都能到。</p>",
+            "_uid": "umu81j0gt5"
+          }
+        ],
+        "content": "",
+        "_uid": "umu81j0gt0"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "第一章 · 一项紧急任务",
+        "description": "画：2 幅，护符：0 个，符文：0 个，设计图：0 个，收集品：1 个，日志：0 个",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACH_1",
+            "type": "main",
+            "note": "取回你的图章戒指。",
+            "_uid": "umu81j0gt7"
+          },
+          {
+            "achievement_id": "ACH_25",
+            "type": "side",
+            "note": "搜刮贾法尼医生的保险箱。第一章和第九章各一次，密码都是 451。",
+            "content": "<p>搜刮贾法尼医生的保险箱。</p><p><b>第一章和第九章各一次</b>，两次都要做才解锁。密码都是 <b>451</b>。</p><p>第九章还会再遇到一次，别漏了。</p>",
+            "_uid": "umu81j0gt8"
+          },
+          {
+            "achievement_id": "ACH_9",
+            "type": "side",
+            "note": "在士兵手上救下报社记者。等士兵拔剑后击晕或击杀，再与记者对话。",
+            "content": "<p>在士兵手上救下报社记者。</p><p>来到报社顶层时会有士兵威胁报社记者，<b>等待士兵拔出剑</b>后击晕或者击杀士兵，再与报社记者对话即可。</p><p>一周目不杀人，所以这里要击晕。</p>",
+            "_uid": "umu81j0gt9"
+          },
+          {
+            "achievement_id": "ACH_30",
+            "type": "condition",
+            "note": "不被发现的情况下完成一章。攻略建议在第一章跳火车速通。",
+            "content": "<p>在不被发现的情况下完成一章。</p><p>攻略的建议是<b>第一章跳火车速通</b> —— 流程短，容易做到全程不被发现。</p><p>这条是全程级别的判定，二周目的「Shadow」是同一个要求放大到整局。</p>",
+            "_uid": "umu81j0gta"
+          },
+          {
+            "achievement_id": "ACH_31",
+            "type": "condition",
+            "note": "在不造成任何伤亡的情况下完成一个章节。同样建议第一章跳火车速通。",
+            "content": "<p>在不造成任何伤亡的情况下完成一个章节。</p><p>同样建议在<b>第一章跳火车速通</b>时一并完成。</p>",
+            "_uid": "umu81j0gtb"
+          }
+        ],
+        "content": "",
+        "_uid": "umu81j0gt6"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "第二章 · 世界边缘",
+        "description": "画：4 幅，护符：6 个，符文：9 个，设计图：2 个，收集品：1 个，日志：8 个",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACH_2",
+            "type": "main",
+            "note": "到达卡纳卡。",
+            "_uid": "umu81j0gtd"
+          },
+          {
+            "achievement_id": "ACH_11",
+            "type": "side",
+            "note": "阻止士兵将市民推进光幕。在士兵动手前阻止守卫。",
+            "content": "<p>阻止士兵将市民推进光幕。</p><p>第二章光幕那里会有两名士兵威胁市民，<b>在士兵把市民推进光幕之前</b>阻止守卫即可 —— 麻醉或者射向士兵上面吊着的装置都行。</p><p>时机是一次性的，走过就没了。</p>",
+            "_uid": "umu81j0gte"
+          },
+          {
+            "achievement_id": "ACH_32",
+            "type": "side",
+            "note": "抢劫一次黑市。",
+            "_uid": "umu81j0gtf"
+          },
+          {
+            "achievement_id": "ACH_10",
+            "type": "side",
+            "note": "为明蒂窃取尸体。任务地点在黑市商人的房子后面。",
+            "content": "<p>为明蒂窃取尸体。任务地点在<b>黑市商人的房子后面</b>。</p>",
+            "_uid": "umu81j0gtg"
+          },
+          {
+            "achievement_id": "ACH_47",
+            "type": "collect",
+            "note": "在卡纳卡找到三对音乐二重奏并聆听。分布在第二、六、八章。",
+            "content": "<p>在卡纳卡找到三对音乐二重奏，并聆听他们的乐器。</p><p>分布在<b>第二、六、八章</b>。多听几遍，他们手放下后就是一遍完毕。</p><p><b>注意：</b>如果之前抢劫黑市商店次数太多，第八章中他们就不会出现了。想稳拿就少抢几次黑市。</p>",
+            "_uid": "umu81j0gth"
+          }
+        ],
+        "content": "",
+        "_uid": "umu81j0gtc"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "第三章 · 善良的医生",
+        "description": "画：3 幅，护符：5 个，符文：6 个，设计图：2 个，收集品：1 个，日志：0 个",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACH_3",
+            "type": "main",
+            "note": "处理海芭夏医生。",
+            "_uid": "umu81j0gtj"
+          }
+        ],
+        "content": "",
+        "_uid": "umu81j0gti"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "第四章 · 机关宅邸",
+        "description": "画：6 幅，护符：8 个，符文：5 个，设计图：4 个，收集品：1 个，日志：5 个",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACH_4",
+            "type": "main",
+            "note": "在机关宅邸中找到索科洛夫。",
+            "_uid": "umu81j0gtl"
+          },
+          {
+            "achievement_id": "ACH_13",
+            "type": "side",
+            "note": "在恐怖鞭痕号与海芭夏医生交谈。第四章开头。",
+            "_uid": "umu81j0gtm"
+          },
+          {
+            "achievement_id": "ACH_37",
+            "type": "collect",
+            "note": "收集三个发条战士的匾额。",
+            "_uid": "umu81j0gtn"
+          },
+          {
+            "achievement_id": "ACH_14",
+            "type": "combat",
+            "note": "杀死帕欧罗三次。第四、六章各能杀一次，累计三次。",
+            "content": "<p>杀死帕欧罗三次。</p><p>帕欧罗会复活，<b>第四章和第六章</b>各能杀他，累计三次即可。</p><p>注意这是一周目「不杀人」路线上唯一要破例的地方 —— 想做 Clean Hands 的话，这条留到二周目。</p>",
+            "_uid": "umu81j0gto"
+          }
+        ],
+        "content": "",
+        "_uid": "umu81j0gtk"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "第五章 · 皇家美术馆",
+        "description": "画：3 幅，护符：9 个，符文：5 个，设计图：3 个，收集品：1 个，日志：4 个",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACH_16",
+            "type": "side",
+            "note": "聆听神谕团妹妹的声音，大概要听三次。",
+            "content": "<p>聆听神谕团妹妹的声音，大概要听三次。</p>",
+            "_uid": "umu81j0gtq"
+          }
+        ],
+        "content": "",
+        "_uid": "umu81j0gtp"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "第六章 · 沙尘区",
+        "description": "画：3 幅，护符：8 个，符文：5 个，设计图：2 个，收集品：2 个，日志：5 个。本关有两个互斥的阵营成就，需分两次或读档完成。",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACH_17",
+            "type": "side",
+            "note": "选择支持沙尘区的战嚎势力。与「督军」路线互斥。",
+            "content": "<p>选择支持沙尘区的<b>战嚎（Howlers）</b>势力。</p><p>与「Faithful to the Abbey」<b>互斥</b>，同一周目只能拿一个。想一次拿全，在做出选择前存档，选完读档再选另一边。</p>",
+            "_uid": "umu81j0gts"
+          },
+          {
+            "achievement_id": "ACH_18",
+            "type": "side",
+            "note": "选择支持沙尘区的督军势力。与「战嚎」路线互斥。",
+            "content": "<p>选择支持沙尘区的<b>督军（Overseers）</b>势力。</p><p>与「Howlers 'til the End」<b>互斥</b>，同一周目只能拿一个。</p>",
+            "_uid": "umu81j0gtt"
+          },
+          {
+            "achievement_id": "ACH_19",
+            "type": "condition",
+            "note": "在不提前拿到密码的情况下破解金朵希锁。",
+            "content": "<p>在不提前拿到密码的情况下破解金朵希锁。</p><p><b>省事的做法：</b>先在门口存档，去杜兰特办公室桌子上拿到密码 —— 这一步只是为了看答案，不要真的用它开门 —— 再读档回来自己输入。</p><p>也可以自己解，网上有教程。</p>",
+            "_uid": "umu81j0gtu"
+          }
+        ],
+        "content": "",
+        "_uid": "umu81j0gtr"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "第七章 · 石板上的裂缝",
+        "description": "画：2 幅，护符：7 个，符文：4 个，设计图：1 个，收集品：1 个，日志：0 个",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACH_5",
+            "type": "main",
+            "note": "造访过去。",
+            "_uid": "umu81j0gtw"
+          },
+          {
+            "achievement_id": "ACH_20",
+            "type": "condition",
+            "note": "在不惊动及杀死守卫的情况下取得大厅钥匙。钥匙在餐桌左边的椅子上。",
+            "content": "<p>在不惊动及杀死守卫的情况下，取得大厅钥匙。</p><p><b>餐桌左边的椅子上</b>就是目标钥匙。守卫必须保持警觉度为未惊动状态。</p>",
+            "_uid": "umu81j0gtx"
+          },
+          {
+            "achievement_id": "ACH_21",
+            "type": "side",
+            "note": "排掉地下室的水以获取符文。",
+            "_uid": "umu81j0gty"
+          },
+          {
+            "achievement_id": "ACH_22",
+            "type": "side",
+            "note": "找到隐藏的阳台通道。在「过去」将阳台下端的两个连接物打断。",
+            "content": "<p>找到隐藏的阳台通道。</p><p>需要在<b>「过去」</b>时间线里，将阳台下端的两个连接物打断。</p>",
+            "_uid": "umu81j0gtz"
+          }
+        ],
+        "content": "",
+        "_uid": "umu81j0gtv"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "第八章 · 大皇宫",
+        "description": "画：3 幅，护符：7 个，符文：5 个，设计图：3 个，收集品：1 个，日志：2 个",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACH_7",
+            "type": "main",
+            "note": "处理卢卡公爵。",
+            "_uid": "umu81j0gt11"
+          },
+          {
+            "achievement_id": "ACH_6",
+            "type": "main",
+            "note": "带走德莱拉的灵魂。",
+            "_uid": "umu81j0gt12"
+          }
+        ],
+        "content": "",
+        "_uid": "umu81j0gt10"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "第九章 · 女皇之死",
+        "description": "画：1 幅，护符：9 个，符文：4 个，设计图：2 个，收集品：1 个，日志：4 个",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACH_8",
+            "type": "main",
+            "note": "拯救你最后的已知家人。",
+            "content": "<p>拯救你最后的已知家人。</p>",
+            "_uid": "umu81j0gt14"
+          },
+          {
+            "achievement_id": "ACH_23",
+            "type": "side",
+            "note": "聆听梅根的故事。要求低混乱度；高混乱度要到梅根的船舱才能听。",
+            "content": "<p>聆听梅根的故事。</p><p><b>要求低混乱度。</b>高混乱度下要到梅根的船舱才能听到 —— 一周目走低混乱的话正常就会解锁。</p>",
+            "_uid": "umu81j0gt15"
+          },
+          {
+            "achievement_id": "ACH_24",
+            "type": "side",
+            "note": "在最后的时刻，向逝去的女皇表达敬意。",
+            "content": "<p>在最后的时刻，向逝去的女皇（你的母亲 / 挚爱）表达敬意。</p>",
+            "_uid": "umu81j0gt16"
+          }
+        ],
+        "content": "",
+        "_uid": "umu81j0gt13"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "二周目 · 全流程成就",
+        "description": "二周目的通关目标：杀人、高混乱、用超能力、潜行。角色建议选科尔沃。",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACH_40",
+            "type": "condition",
+            "note": "不被发现的情况下完成整局游戏。",
+            "content": "<p>在不被发现的情况下完成游戏。</p><p><b>判定很严：</b>只要警戒条红色满了就算，狗和其他怪物发现你也算，BOSS 战也算 —— 包括最后打德莱拉。</p><p>这是第一周目「Ghostly」的整局版本。</p>",
+            "_uid": "umu81j0gt18"
+          },
+          {
+            "achievement_id": "ACH_45",
+            "type": "condition",
+            "note": "高混乱度完成游戏。",
+            "_uid": "umu81j0gt19"
+          },
+          {
+            "achievement_id": "ACH_42",
+            "type": "main",
+            "note": "扮演科尔沃完成游戏。",
+            "_uid": "umu81j0gt1a"
+          }
+        ],
+        "content": "",
+        "_uid": "umu81j0gt17"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "二周目 · 超能力成就",
+        "description": "这 7 条都需要超能力，一周目走「无超能力」路线拿不到，安排在二周目。",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACH_12",
+            "type": "combat",
+            "note": "从艾德迈尔最高处落下击杀下方敌人。下方没刷敌人就用弩箭引一个。",
+            "content": "<p>从艾德迈尔（第三章）的最高处收拾下方敌人。</p><p>如果下方敌人没刷出来，就用弩箭吸引一名敌人过来。</p>",
+            "_uid": "umu81j0gt1c"
+          },
+          {
+            "achievement_id": "ACH_15",
+            "type": "condition",
+            "note": "无声消灭金朵希，不要拉动拉杆。",
+            "_uid": "umu81j0gt1d"
+          },
+          {
+            "achievement_id": "ACH_29",
+            "type": "misc",
+            "note": "用附身技能在人、血蝇、老鼠、鱼、猎犬之间依次轮回。推荐皇家美术馆地下室。",
+            "content": "<p>利用附身技能在人、血蝇、老鼠、鱼、猎犬之间进行轮回。</p><p>推荐在<b>皇家美术馆（第五章）的地下室</b>完成，五种目标那里都有。</p>",
+            "_uid": "umu81j0gt1e"
+          },
+          {
+            "achievement_id": "ACH_46",
+            "type": "misc",
+            "note": "在两名角色互相残杀前用骨牌把他们连接起来。第二、六章都有机会。",
+            "content": "<p>在 2 名角色杀掉对方以前用骨牌（Domino）将他们「连接」到一起。</p><p><b>第二章和第六章</b>都有可以下手的场面。</p>",
+            "_uid": "umu81j0gt1f"
+          },
+          {
+            "achievement_id": "ACH_26",
+            "type": "collect",
+            "note": "制作 10 个骸骨护符。需要收集原始骸骨 + 骸骨护符。",
+            "_uid": "umu81j0gt1g"
+          },
+          {
+            "achievement_id": "ACH_48",
+            "type": "combat",
+            "note": "在滑行中爆头。需要升级「聚焦滑行」。",
+            "_uid": "umu81j0gt1h"
+          },
+          {
+            "achievement_id": "ACH_28",
+            "type": "combat",
+            "note": "用敌人自己的子弹杀死他们。必须是精英守卫。",
+            "_uid": "umu81j0gt1i"
+          }
+        ],
+        "content": "",
+        "_uid": "umu81j0gt1b"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "其他成就",
+        "description": "任选周目、任意章节均可完成，顺手做就行。",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACH_38",
+            "type": "combat",
+            "note": "杀死 20 个没有警觉的敌人。",
+            "_uid": "umu81j0gt1k"
+          },
+          {
+            "achievement_id": "ACH_39",
+            "type": "combat",
+            "note": "以坠落击杀的方式杀死 10 个敌人。",
+            "_uid": "umu81j0gt1l"
+          },
+          {
+            "achievement_id": "ACH_35",
+            "type": "misc",
+            "note": "用心脏窃听 40 个不同的人。看到人就右键，很快。",
+            "content": "<p>用心脏窃听 40 个不同的人。</p><p>看到人就右键，攒起来很快。</p>",
+            "_uid": "umu81j0gt1m"
+          },
+          {
+            "achievement_id": "ACH_27",
+            "type": "combat",
+            "note": "在不到 1.5 秒内消灭 6 个敌人。先晕六个人，再一发手榴弹。",
+            "content": "<p>在不到 1.5 秒内消灭 6 个敌人。</p><p>和一代那条思路差不多：先把六个人晕好聚在一起，再一发手榴弹解决。</p>",
+            "_uid": "umu81j0gt1n"
+          }
+        ],
+        "content": "",
+        "_uid": "umu81j0gt1j"
+      },
+      {
+        "type": "main_anchor",
+        "achievement_id": "",
+        "chapter": "收集成就",
+        "description": "推荐一周目完成 —— 二周目再补的话，「Art Collector」需要重新全收集，不是补上缺的那一幅就行。",
+        "sub_achievements": [
+          {
+            "achievement_id": "ACH_36",
+            "type": "collect",
+            "note": "收集全部画作。",
+            "content": "<p>收集全部画作。</p><p><b>注意：</b>必须在一周目内集齐。如果一周目少了一幅，二周目需要<b>重新全收集</b>，而不是只补上缺的那幅。</p><p>各章画作数量见各章描述。</p>",
+            "_uid": "umu81j0gt1p"
+          },
+          {
+            "achievement_id": "ACH_33",
+            "type": "collect",
+            "note": "收集恐怖鞭痕号上的全部收集品。",
+            "_uid": "umu81j0gt1q"
+          },
+          {
+            "achievement_id": "ACH_49",
+            "type": "collect",
+            "note": "阅读梅根与索科洛夫的所有日志与声谱。收集点都在船上。",
+            "_uid": "umu81j0gt1r"
+          }
+        ],
+        "content": "",
+        "_uid": "umu81j0gt1o"
+      }
+    ]
+  }
+}
