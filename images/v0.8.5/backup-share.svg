@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="285" viewBox="0 0 1200 285" role="img" aria-labelledby="title desc">
+  <title id="title">攻略备份与分享方式</title>
+  <desc id="desc">使用 JSON 备份和迁移攻略，使用 HTML 在浏览器中阅读分享，导出游戏库和成就数据。</desc>
+  <rect width="1200" height="285" rx="24" fill="#f4f7fb"/>
+  <text x="34" y="48" fill="#2468d5" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">KEEP · SHARE · CONTINUE</text>
+  <text x="34" y="84" fill="#13243a" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">按需要备份、迁移或分享你的进度</text>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="34" y="108" width="356" height="142" rx="16" fill="#fff" stroke="#dce5ef"/>
+    <rect x="56" y="131" width="52" height="58" rx="9" fill="#e9f1ff"/>
+    <path d="M70 145h24M70 155h24M70 165h17" stroke="#2878f0" stroke-width="3" stroke-linecap="round"/>
+    <text x="126" y="148" fill="#20334b" font-size="17" font-weight="700">JSON · 完整备份</text>
+    <text x="126" y="173" fill="#6b7b90" font-size="13">保存攻略，之后可重新导入</text>
+    <text x="56" y="220" fill="#8794a5" font-size="11">适合个人备份和迁移</text>
+
+    <rect x="422" y="108" width="356" height="142" rx="16" fill="#fff" stroke="#dce5ef"/>
+    <rect x="444" y="131" width="52" height="58" rx="9" fill="#e6f7f2"/>
+    <path d="M454 145h32M454 154h32M454 163h25M454 172h29" stroke="#178264" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="514" y="148" fill="#20334b" font-size="17" font-weight="700">HTML · 浏览器阅读</text>
+    <text x="514" y="173" fill="#6b7b90" font-size="13">生成独立页面，方便分享</text>
+    <text x="444" y="220" fill="#8794a5" font-size="11">接收者无需安装软件</text>
+
+    <rect x="810" y="108" width="356" height="142" rx="16" fill="#fff" stroke="#dce5ef"/>
+    <rect x="832" y="131" width="52" height="58" rx="9" fill="#fff3dd"/>
+    <rect x="844" y="143" width="28" height="29" rx="4" fill="none" stroke="#c28a22" stroke-width="2.5"/>
+    <path d="M850 164v-8h5v8m2-5h7" fill="none" stroke="#c28a22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="902" y="148" fill="#20334b" font-size="17" font-weight="700">游戏数据 · 多种格式</text>
+    <text x="902" y="173" fill="#6b7b90" font-size="13">游戏库与成就可导出 JSON、CSV、HTML</text>
+    <text x="832" y="220" fill="#8794a5" font-size="11">按用途选择合适的格式</text>
+  </g>
+</svg>

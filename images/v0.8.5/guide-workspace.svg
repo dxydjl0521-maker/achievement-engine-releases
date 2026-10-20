@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="570" viewBox="0 0 1200 570" role="img" aria-labelledby="title desc">
+  <title id="title">攻略阅读页面布局示意图</title>
+  <desc id="desc">示意攻略目录、图文正文和成就进度面板如何并排协作。</desc>
+  <rect width="1200" height="570" rx="24" fill="#f4f7fb"/>
+  <text x="34" y="42" fill="#2468d5" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">攻略阅读 · 功能示意</text>
+  <text x="34" y="78" fill="#13243a" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700">目录、图文攻略和成就进度集中在一个页面</text>
+  <rect x="26" y="104" width="1148" height="432" rx="18" fill="#fff" stroke="#d8e1ee"/>
+  <rect x="26" y="104" width="1148" height="48" rx="18" fill="#fbfcfe"/>
+  <path d="M26 134v18h1148v-18" fill="#fbfcfe"/>
+  <circle cx="52" cy="128" r="5" fill="#f0b544"/><circle cx="70" cy="128" r="5" fill="#54b98d"/><circle cx="88" cy="128" r="5" fill="#8a9bb0"/>
+  <text x="116" y="133" fill="#233247" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">示例游戏 · 全成就流程攻略</text>
+  <rect x="991" y="115" width="156" height="28" rx="8" fill="#e9f1ff"/>
+  <text x="1069" y="134" text-anchor="middle" fill="#2468d5" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">已完成 18 / 42 项</text>
+
+  <rect x="42" y="166" width="225" height="348" rx="13" fill="#f8faff" stroke="#e2e9f2"/>
+  <text x="60" y="195" fill="#29384d" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">章节目录</text>
+  <rect x="54" y="211" width="201" height="39" rx="8" fill="#e8f0ff"/>
+  <rect x="54" y="211" width="3" height="39" rx="2" fill="#2878f0"/>
+  <text x="69" y="236" fill="#1d5fc4" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">第一章 · 序幕</text>
+  <circle cx="229" cy="230" r="10" fill="#d9f3e8"/><path d="m224 230 3 3 6-7" fill="none" stroke="#16875c" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="73" y="273" fill="#66758a" font-family="Segoe UI,Arial,sans-serif" font-size="12">· 初次相遇</text>
+  <text x="73" y="300" fill="#66758a" font-family="Segoe UI,Arial,sans-serif" font-size="12">· 不留遗憾</text>
+  <rect x="54" y="316" width="201" height="37" rx="8" fill="#fff"/>
+  <text x="69" y="340" fill="#3b4a5e" font-family="Segoe UI,Arial,sans-serif" font-size="13">第二章 · 旅途</text>
+  <circle cx="229" cy="335" r="10" fill="#fff1d6"/><text x="229" y="339" text-anchor="middle" fill="#ad7410" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">2</text>
+  <rect x="54" y="360" width="201" height="37" rx="8" fill="#fff"/>
+  <text x="69" y="384" fill="#3b4a5e" font-family="Segoe UI,Arial,sans-serif" font-size="13">第三章 · 终章</text>
+  <circle cx="229" cy="379" r="10" fill="#eef1f5"/><text x="229" y="383" text-anchor="middle" fill="#78869a" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">0</text>
+  <text x="60" y="471" fill="#8794a5" font-family="Segoe UI,Arial,sans-serif" font-size="11">点章节或成就可跳到对应位置</text>
+
+  <rect x="280" y="166" width="590" height="348" rx="13" fill="#fff" stroke="#e2e9f2"/>
+  <text x="304" y="198" fill="#15283d" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700">第一章 · 序幕</text>
+  <text x="304" y="222" fill="#718095" font-family="Segoe UI,Arial,sans-serif" font-size="12">先完成本章目标，再进入下一段旅程。</text>
+  <rect x="304" y="240" width="542" height="2" fill="#e6ebf2"/>
+  <rect x="304" y="258" width="542" height="88" rx="11" fill="#f8fafc" stroke="#e4eaf2"/>
+  <circle cx="329" cy="283" r="12" fill="#d9f3e8"/><path d="m323 283 4 4 8-9" fill="none" stroke="#16875c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="352" y="287" fill="#193048" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">初次相遇</text>
+  <rect x="745" y="270" width="78" height="23" rx="11" fill="#e3f6ef"/><text x="784" y="286" text-anchor="middle" fill="#148262" font-family="Segoe UI,Arial,sans-serif" font-size="11">已解锁</text>
+  <text x="352" y="316" fill="#627288" font-family="Segoe UI,Arial,sans-serif" font-size="12">按攻略提示推进剧情，并留意本章的可选目标。</text>
+  <rect x="304" y="361" width="542" height="112" rx="11" fill="#fff" stroke="#e4eaf2"/>
+  <circle cx="329" cy="386" r="12" fill="#fff2d8"/><text x="329" y="390" text-anchor="middle" fill="#ad7410" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">!</text>
+  <text x="352" y="390" fill="#193048" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">不留遗憾</text>
+  <rect x="745" y="373" width="78" height="23" rx="11" fill="#fff4dd"/><text x="784" y="389" text-anchor="middle" fill="#ad7410" font-family="Segoe UI,Arial,sans-serif" font-size="11">易错过</text>
+  <text x="352" y="419" fill="#627288" font-family="Segoe UI,Arial,sans-serif" font-size="12">完成后再离开当前区域，避免错过支线机会。</text>
+  <rect x="352" y="434" width="224" height="22" rx="6" fill="#eef3fa"/>
+  <circle cx="365" cy="445" r="5" fill="#a9c7ef"/><text x="378" y="449" fill="#718095" font-family="Segoe UI,Arial,sans-serif" font-size="10">图文提示可以配图和说明</text>
+
+  <rect x="883" y="166" width="274" height="348" rx="13" fill="#f8faff" stroke="#e2e9f2"/>
+  <text x="903" y="195" fill="#29384d" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">成就进度</text>
+  <circle cx="1020" cy="276" r="49" fill="none" stroke="#e2e9f2" stroke-width="9"/>
+  <circle cx="1020" cy="276" r="49" fill="none" stroke="#2878f0" stroke-width="9" stroke-dasharray="154 308" stroke-linecap="round" transform="rotate(-90 1020 276)"/>
+  <text x="1020" y="273" text-anchor="middle" fill="#172b43" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">43%</text>
+  <text x="1020" y="293" text-anchor="middle" fill="#78869a" font-family="Segoe UI,Arial,sans-serif" font-size="11">18 / 42 成就</text>
+  <rect x="902" y="344" width="236" height="1" fill="#e2e9f2"/>
+  <text x="903" y="369" fill="#627288" font-family="Segoe UI,Arial,sans-serif" font-size="12">接下来可以完成</text>
+  <circle cx="912" cy="394" r="5" fill="#eab64d"/><text x="926" y="398" fill="#33445a" font-family="Segoe UI,Arial,sans-serif" font-size="12">第二章 · 旅途</text>
+  <circle cx="912" cy="421" r="5" fill="#9baabd"/><text x="926" y="425" fill="#66758a" font-family="Segoe UI,Arial,sans-serif" font-size="12">找到隐藏的补给</text>
+  <circle cx="912" cy="448" r="5" fill="#9baabd"/><text x="926" y="452" fill="#66758a" font-family="Segoe UI,Arial,sans-serif" font-size="12">完成可选挑战</text>
+  <rect x="42" y="548" width="1115" height="1" fill="#dce5ef"/>
+  <text x="42" y="562" fill="#8390a2" font-family="Segoe UI,Arial,sans-serif" font-size="11">示意布局：左侧快速导航 · 中间阅读图文 · 右侧跟踪成就进度</text>
+</svg>

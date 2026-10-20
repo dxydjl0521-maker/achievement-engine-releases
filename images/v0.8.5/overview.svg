@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Achievement Engine 0.8.5 使用流程</title>
+  <desc id="desc">同步游戏和成就，编写章节攻略，游玩时查看，并跟踪完成进度。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5f8ff"/><stop offset="1" stop-color="#edf7f6"/></linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2878f0"/><stop offset="1" stop-color="#1757c2"/></linearGradient>
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#23b5a4"/><stop offset="1" stop-color="#128577"/></linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1110" cy="34" r="112" fill="#dbeafe" opacity=".45"/>
+  <circle cx="42" cy="337" r="100" fill="#d8f4ed" opacity=".55"/>
+  <text x="52" y="62" fill="#2970d9" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">ACHIEVEMENT ENGINE · PUBLIC EDITION 0.8.5</text>
+  <text x="52" y="112" fill="#13243a" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700">让攻略跟着你的游戏进度走</text>
+  <text x="52" y="144" fill="#617189" font-family="Segoe UI,Arial,sans-serif" font-size="17">从同步成就、整理路线，到边玩边看和追踪完成情况</text>
+
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="52" y="184" width="248" height="126" rx="18" fill="#fff" stroke="#d7e1f0"/>
+    <circle cx="84" cy="218" r="17" fill="#e7efff"/><text x="84" y="224" text-anchor="middle" fill="#2468d5" font-size="16" font-weight="700">1</text>
+    <text x="112" y="222" fill="#18283d" font-size="18" font-weight="700">同步游戏</text>
+    <text x="76" y="260" fill="#68788d" font-size="14">连接平台，载入游戏和成就</text>
+    <text x="76" y="285" fill="#2468d5" font-size="12" font-weight="600">STEAM · PLAYSTATION · EPIC</text>
+
+    <path d="M310 247h30m-8-8 8 8-8 8" fill="none" stroke="#95a6bd" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="350" y="184" width="248" height="126" rx="18" fill="#fff" stroke="#d7e1f0"/>
+    <circle cx="382" cy="218" r="17" fill="#e7efff"/><text x="382" y="224" text-anchor="middle" fill="#2468d5" font-size="16" font-weight="700">2</text>
+    <text x="410" y="222" fill="#18283d" font-size="18" font-weight="700">编写攻略</text>
+    <text x="374" y="260" fill="#68788d" font-size="14">按章节编排成就与图文提示</text>
+    <text x="374" y="285" fill="#128577" font-size="12" font-weight="600">章节 · 成就 · 图片 · 分类</text>
+
+    <path d="M608 247h30m-8-8 8 8-8 8" fill="none" stroke="#95a6bd" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="648" y="184" width="248" height="126" rx="18" fill="#fff" stroke="#d7e1f0"/>
+    <circle cx="680" cy="218" r="17" fill="#e2f6f3"/><text x="680" y="224" text-anchor="middle" fill="#128577" font-size="16" font-weight="700">3</text>
+    <text x="708" y="222" fill="#18283d" font-size="18" font-weight="700">边玩边看</text>
+    <text x="672" y="260" fill="#68788d" font-size="14">在攻略页或悬浮窗查看路线</text>
+    <text x="672" y="285" fill="#128577" font-size="12" font-weight="600">无需来回切换攻略文档</text>
+
+    <path d="M906 247h30m-8-8 8 8-8 8" fill="none" stroke="#95a6bd" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="946" y="184" width="202" height="126" rx="18" fill="url(#blue)"/>
+    <circle cx="978" cy="218" r="17" fill="#ffffff" opacity=".18"/><text x="978" y="224" text-anchor="middle" fill="#fff" font-size="16" font-weight="700">4</text>
+    <text x="1006" y="222" fill="#fff" font-size="18" font-weight="700">追踪进度</text>
+    <text x="970" y="260" fill="#e2edff" font-size="14">已解锁与待完成一目了然</text>
+    <text x="970" y="285" fill="#d7e7ff" font-size="12" font-weight="600">每章完成数 · 全局进度</text>
+  </g>
+</svg>

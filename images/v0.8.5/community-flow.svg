@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">社区攻略使用流程</title>
+  <desc id="desc">浏览和下载无需 GitHub 登录；投稿时登录 GitHub，经过检查和审核后公开发布。</desc>
+  <rect width="1200" height="460" rx="24" fill="#f4f7fb"/>
+  <text x="36" y="46" fill="#2468d5" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">COMMUNITY GUIDES · 0.8.5</text>
+  <text x="36" y="82" fill="#13243a" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700">浏览下载开放给所有人，投稿由社区审核</text>
+
+  <rect x="32" y="108" width="1136" height="136" rx="18" fill="#fff" stroke="#dce5ef"/>
+  <rect x="32" y="108" width="8" height="136" rx="4" fill="#24a57d"/>
+  <text x="60" y="140" fill="#178264" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">浏览与下载 · 无需 GitHub 登录</text>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="60" y="158" width="260" height="62" rx="12" fill="#eff8f5"/>
+    <circle cx="87" cy="189" r="15" fill="#d6f0e7"/><text x="87" y="194" text-anchor="middle" fill="#178264" font-size="14" font-weight="700">1</text>
+    <text x="113" y="186" fill="#1e3a34" font-size="15" font-weight="700">搜索社区攻略</text><text x="113" y="205" fill="#688078" font-size="11">按游戏、标题或作者查找</text>
+    <path d="M332 189h30m-8-8 8 8-8 8" fill="none" stroke="#8aa99e" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="374" y="158" width="260" height="62" rx="12" fill="#eff8f5"/>
+    <circle cx="401" cy="189" r="15" fill="#d6f0e7"/><text x="401" y="194" text-anchor="middle" fill="#178264" font-size="14" font-weight="700">2</text>
+    <text x="427" y="186" fill="#1e3a34" font-size="15" font-weight="700">预览与选择版本</text><text x="427" y="205" fill="#688078" font-size="11">查看简介、内容和发布记录</text>
+    <path d="M646 189h30m-8-8 8 8-8 8" fill="none" stroke="#8aa99e" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="688" y="158" width="260" height="62" rx="12" fill="#eff8f5"/>
+    <circle cx="715" cy="189" r="15" fill="#d6f0e7"/><text x="715" y="194" text-anchor="middle" fill="#178264" font-size="14" font-weight="700">3</text>
+    <text x="741" y="186" fill="#1e3a34" font-size="15" font-weight="700">下载到本地</text><text x="741" y="205" fill="#688078" font-size="11">导入后可按需继续编辑</text>
+    <rect x="972" y="158" width="166" height="62" rx="12" fill="#178264"/>
+    <text x="1055" y="185" text-anchor="middle" fill="#fff" font-size="14" font-weight="700">任何玩家</text><text x="1055" y="204" text-anchor="middle" fill="#d9f4eb" font-size="11">都可浏览和下载</text>
+  </g>
+
+  <rect x="32" y="264" width="1136" height="162" rx="18" fill="#fff" stroke="#dce5ef"/>
+  <rect x="32" y="264" width="8" height="162" rx="4" fill="#2878f0"/>
+  <text x="60" y="297" fill="#2468d5" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">投稿与发布 · 需要 GitHub 登录</text>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="60" y="315" width="228" height="76" rx="12" fill="#eff4ff"/>
+    <circle cx="87" cy="353" r="15" fill="#dce9ff"/><text x="87" y="358" text-anchor="middle" fill="#2468d5" font-size="14" font-weight="700">1</text>
+    <text x="113" y="348" fill="#203653" font-size="14" font-weight="700">选择投稿方式</text><text x="113" y="368" fill="#71839b" font-size="11">更新攻略 / 新建攻略</text>
+    <path d="M298 353h20m-7-7 7 7-7 7" fill="none" stroke="#8aa0bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="330" y="315" width="228" height="76" rx="12" fill="#eff4ff"/>
+    <circle cx="357" cy="353" r="15" fill="#dce9ff"/><text x="357" y="358" text-anchor="middle" fill="#2468d5" font-size="14" font-weight="700">2</text>
+    <text x="383" y="348" fill="#203653" font-size="14" font-weight="700">登录并提交</text><text x="383" y="368" fill="#71839b" font-size="11">按提示完成 GitHub 授权</text>
+    <path d="M568 353h20m-7-7 7 7-7 7" fill="none" stroke="#8aa0bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="600" y="315" width="228" height="76" rx="12" fill="#eff4ff"/>
+    <circle cx="627" cy="353" r="15" fill="#dce9ff"/><text x="627" y="358" text-anchor="middle" fill="#2468d5" font-size="14" font-weight="700">3</text>
+    <text x="653" y="348" fill="#203653" font-size="14" font-weight="700">检查与人工审核</text><text x="653" y="368" fill="#71839b" font-size="11">可在投稿记录查看进度</text>
+    <path d="M838 353h20m-7-7 7 7-7 7" fill="none" stroke="#8aa0bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="870" y="315" width="268" height="76" rx="12" fill="#2878f0"/>
+    <circle cx="897" cy="353" r="15" fill="#fff" opacity=".2"/><path d="m890 353 5 5 9-11" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="923" y="348" fill="#fff" font-size="14" font-weight="700">审核通过后发布</text><text x="923" y="368" fill="#dfebff" font-size="11">之后所有玩家均可获取</text>
+  </g>
+</svg>
